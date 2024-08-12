@@ -1,0 +1,31 @@
+{
+    "sideLineSetter": {
+        "spriteAtlas": "textures/slotMachine/sideLineSetter",
+        "items": [
+            {
+                "name": "item0",
+                "type": "prefab",
+                "prfab": "",
+                "lineId": 1,
+                "activeSprite": "9_active",
+                "inActiveSprite": "9_inactive",
+                "x": -700,
+                "y": 0,
+                "width": 100,
+                "height": 100
+            },
+            {
+                "name": "item1",
+                "type": "prefab",
+                "prfab": "",
+                "lineId": 10,
+                "activeSprite": "10_active",
+                "inActiveSprite": "10_inactive",
+                "x": 500,
+                "y": 0,
+                "width": 100,
+                "height": 100
+            }
+        ]
+    }
+}

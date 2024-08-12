@@ -1,0 +1,20 @@
+
+putongbeijing.png
+size: 117,68
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_part/background_fire_glow
+  rotate: true
+  xy: 0, 0
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+part_ui/background_fire
+  rotate: false
+  xy: 101, 28
+  size: 16, 40
+  orig: 18, 42
+  offset: 1, 1
+  index: -1

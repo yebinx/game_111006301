@@ -1,0 +1,514 @@
+
+xiangcaishenxulie.png
+size: 1884,1817
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bszd/mg_ganesha_win_a_000
+  rotate: true
+  xy: 468, 1454
+  size: 361, 468
+  orig: 500, 528
+  offset: 70, 20
+  index: -1
+bszd/mg_ganesha_win_a_006
+  rotate: true
+  xy: 938, 1454
+  size: 361, 476
+  orig: 500, 528
+  offset: 70, 28
+  index: -1
+bszd/mg_ganesha_win_a_011
+  rotate: true
+  xy: 1416, 1454
+  size: 361, 466
+  orig: 500, 528
+  offset: 70, 21
+  index: -1
+jdtcx/mg_ganesha_win_c_000
+  rotate: true
+  xy: 2, 1091
+  size: 361, 467
+  orig: 500, 528
+  offset: 70, 21
+  index: -1
+jdtcx/mg_ganesha_win_c_009
+  rotate: true
+  xy: 471, 1091
+  size: 361, 465
+  orig: 500, 528
+  offset: 70, 27
+  index: -1
+jdtcx/mg_ganesha_win_c_011
+  rotate: true
+  xy: 938, 1091
+  size: 361, 465
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+jdtjm/mg_ganesha_react_000
+  rotate: true
+  xy: 1405, 1091
+  size: 361, 465
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+jdtjm/mg_ganesha_react_001
+  rotate: true
+  xy: 2, 728
+  size: 361, 462
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+jdtjm/mg_ganesha_react_002
+  rotate: true
+  xy: 466, 728
+  size: 361, 461
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+jdtjm/mg_ganesha_react_013
+  rotate: true
+  xy: 929, 728
+  size: 361, 484
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+jdtjm/mg_ganesha_react_014
+  rotate: true
+  xy: 1415, 728
+  size: 361, 462
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+jdtjm/mg_ganesha_react_015
+  rotate: true
+  xy: 2, 365
+  size: 361, 457
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+jdtjm/mg_ganesha_react_016
+  rotate: true
+  xy: 461, 365
+  size: 361, 460
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+yjhs/mg_ganesha_intro_002
+  rotate: true
+  xy: 923, 365
+  size: 361, 449
+  orig: 500, 528
+  offset: 69, 40
+  index: -1
+yjhs/mg_ganesha_intro_003
+  rotate: true
+  xy: 1374, 365
+  size: 361, 448
+  orig: 500, 528
+  offset: 69, 38
+  index: -1
+yjhs/mg_ganesha_intro_004
+  rotate: true
+  xy: 2, 2
+  size: 361, 453
+  orig: 500, 528
+  offset: 69, 37
+  index: -1
+yjhs/mg_ganesha_intro_005
+  rotate: true
+  xy: 457, 2
+  size: 361, 456
+  orig: 500, 528
+  offset: 69, 35
+  index: -1
+yjhs/mg_ganesha_intro_006
+  rotate: true
+  xy: 915, 2
+  size: 361, 457
+  orig: 500, 528
+  offset: 69, 36
+  index: -1
+yjhs/mg_ganesha_intro_010
+  rotate: true
+  xy: 1374, 2
+  size: 361, 458
+  orig: 500, 528
+  offset: 69, 35
+  index: -1
+yjnt/mg_ganesha_win_b_011
+  rotate: true
+  xy: 2, 1454
+  size: 361, 464
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+
+xiangcaishenxulie2.png
+size: 1919,1821
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+jdtcx/mg_ganesha_win_c_001
+  rotate: true
+  xy: 460, 368
+  size: 362, 469
+  orig: 500, 528
+  offset: 69, 32
+  index: -1
+jdtcx/mg_ganesha_win_c_010
+  rotate: true
+  xy: 931, 368
+  size: 362, 464
+  orig: 500, 528
+  offset: 69, 19
+  index: -1
+jdtjm/mg_ganesha_react_003
+  rotate: true
+  xy: 458, 3
+  size: 363, 468
+  orig: 500, 528
+  offset: 68, 19
+  index: -1
+jdtjm/mg_ganesha_react_012
+  rotate: true
+  xy: 1388, 2
+  size: 364, 490
+  orig: 500, 528
+  offset: 67, 19
+  index: -1
+yjhs/mg_ganesha_intro_000
+  rotate: true
+  xy: 1397, 368
+  size: 362, 456
+  orig: 500, 528
+  offset: 69, 42
+  index: -1
+yjhs/mg_ganesha_intro_001
+  rotate: true
+  xy: 2, 5
+  size: 362, 454
+  orig: 500, 528
+  offset: 69, 41
+  index: -1
+yjhs/mg_ganesha_intro_011
+  rotate: true
+  xy: 2, 1458
+  size: 361, 460
+  orig: 500, 528
+  offset: 69, 36
+  index: -1
+yjhs/mg_ganesha_intro_012
+  rotate: true
+  xy: 464, 1458
+  size: 361, 463
+  orig: 500, 528
+  offset: 69, 36
+  index: -1
+yjhs/mg_ganesha_intro_013
+  rotate: true
+  xy: 929, 1458
+  size: 361, 465
+  orig: 500, 528
+  offset: 69, 34
+  index: -1
+yjhs/mg_ganesha_intro_014
+  rotate: true
+  xy: 1396, 1458
+  size: 361, 466
+  orig: 500, 528
+  offset: 70, 29
+  index: -1
+yjhs/mg_ganesha_intro_015
+  rotate: true
+  xy: 2, 1095
+  size: 361, 466
+  orig: 500, 528
+  offset: 70, 23
+  index: -1
+yjhs/mg_ganesha_intro_016
+  rotate: true
+  xy: 470, 1095
+  size: 361, 465
+  orig: 500, 528
+  offset: 70, 20
+  index: -1
+yjnt/mg_ganesha_win_b_000
+  rotate: true
+  xy: 937, 1095
+  size: 361, 466
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+yjnt/mg_ganesha_win_b_001
+  rotate: true
+  xy: 1405, 1095
+  size: 361, 469
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+yjnt/mg_ganesha_win_b_002
+  rotate: true
+  xy: 2, 732
+  size: 361, 473
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+yjnt/mg_ganesha_win_b_003
+  rotate: true
+  xy: 477, 732
+  size: 361, 478
+  orig: 500, 528
+  offset: 70, 22
+  index: -1
+yjnt/mg_ganesha_win_b_004
+  rotate: true
+  xy: 957, 732
+  size: 361, 481
+  orig: 500, 528
+  offset: 70, 25
+  index: -1
+yjnt/mg_ganesha_win_b_005
+  rotate: true
+  xy: 1440, 732
+  size: 361, 477
+  orig: 500, 528
+  offset: 70, 24
+  index: -1
+yjnt/mg_ganesha_win_b_006
+  rotate: true
+  xy: 2, 369
+  size: 361, 456
+  orig: 500, 528
+  offset: 70, 19
+  index: -1
+yjnt/mg_ganesha_win_b_010
+  rotate: true
+  xy: 928, 3
+  size: 363, 458
+  orig: 500, 528
+  offset: 68, 20
+  index: -1
+
+xiangcaishenxulie3.png
+size: 1900,1872
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bszd/mg_ganesha_win_a_001
+  rotate: true
+  xy: 1423, 384
+  size: 373, 475
+  orig: 500, 528
+  offset: 58, 24
+  index: -1
+bszd/mg_ganesha_win_a_010
+  rotate: true
+  xy: 926, 6
+  size: 379, 475
+  orig: 500, 528
+  offset: 69, 25
+  index: -1
+jdtcx/mg_ganesha_win_c_002
+  rotate: true
+  xy: 2, 1135
+  size: 367, 470
+  orig: 500, 528
+  offset: 69, 40
+  index: -1
+jdtcx/mg_ganesha_win_c_003
+  rotate: true
+  xy: 1424, 759
+  size: 372, 468
+  orig: 500, 528
+  offset: 60, 41
+  index: -1
+jdtcx/mg_ganesha_win_c_004
+  rotate: true
+  xy: 463, 388
+  size: 373, 466
+  orig: 500, 528
+  offset: 59, 41
+  index: -1
+jdtcx/mg_ganesha_win_c_005
+  rotate: true
+  xy: 1431, 1133
+  size: 369, 466
+  orig: 500, 528
+  offset: 69, 41
+  index: -1
+jdtcx/mg_ganesha_win_c_006
+  rotate: true
+  xy: 464, 763
+  size: 370, 467
+  orig: 500, 528
+  offset: 63, 41
+  index: -1
+jdtcx/mg_ganesha_win_c_007
+  rotate: true
+  xy: 459, 7
+  size: 379, 465
+  orig: 500, 528
+  offset: 53, 41
+  index: -1
+jdtcx/mg_ganesha_win_c_008
+  rotate: true
+  xy: 474, 1135
+  size: 367, 463
+  orig: 500, 528
+  offset: 64, 39
+  index: -1
+jdtjm/mg_ganesha_react_004
+  rotate: true
+  xy: 461, 1504
+  size: 366, 478
+  orig: 500, 528
+  offset: 65, 19
+  index: -1
+jdtjm/mg_ganesha_react_005
+  rotate: true
+  xy: 933, 761
+  size: 371, 489
+  orig: 500, 528
+  offset: 60, 19
+  index: -1
+jdtjm/mg_ganesha_react_009
+  rotate: true
+  xy: 1403, 2
+  size: 380, 491
+  orig: 500, 528
+  offset: 51, 18
+  index: -1
+jdtjm/mg_ganesha_react_010
+  rotate: true
+  xy: 931, 387
+  size: 372, 490
+  orig: 500, 528
+  offset: 59, 18
+  index: -1
+jdtjm/mg_ganesha_react_011
+  rotate: true
+  xy: 939, 1134
+  size: 368, 490
+  orig: 500, 528
+  offset: 63, 18
+  index: -1
+yjhs/mg_ganesha_intro_007
+  rotate: true
+  xy: 2, 1506
+  size: 364, 457
+  orig: 500, 528
+  offset: 67, 35
+  index: -1
+yjhs/mg_ganesha_intro_008
+  rotate: true
+  xy: 941, 1504
+  size: 366, 458
+  orig: 500, 528
+  offset: 65, 35
+  index: -1
+yjhs/mg_ganesha_intro_009
+  rotate: true
+  xy: 1401, 1504
+  size: 366, 458
+  orig: 500, 528
+  offset: 65, 35
+  index: -1
+yjnt/mg_ganesha_win_b_007
+  rotate: true
+  xy: 2, 13
+  size: 375, 455
+  orig: 500, 528
+  offset: 56, 21
+  index: -1
+yjnt/mg_ganesha_win_b_008
+  rotate: true
+  xy: 2, 390
+  size: 372, 459
+  orig: 500, 528
+  offset: 59, 22
+  index: -1
+yjnt/mg_ganesha_win_b_009
+  rotate: true
+  xy: 2, 764
+  size: 369, 460
+  orig: 500, 528
+  offset: 62, 22
+  index: -1
+
+xiangcaishenxulie4.png
+size: 1798,1202
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bszd/mg_ganesha_win_a_002
+  rotate: true
+  xy: 916, 395
+  size: 406, 479
+  orig: 500, 528
+  offset: 25, 26
+  index: -1
+bszd/mg_ganesha_win_a_003
+  rotate: false
+  xy: 2, 720
+  size: 418, 480
+  orig: 500, 528
+  offset: 13, 27
+  index: -1
+bszd/mg_ganesha_win_a_004
+  rotate: false
+  xy: 2, 246
+  size: 419, 472
+  orig: 500, 528
+  offset: 12, 27
+  index: -1
+bszd/mg_ganesha_win_a_005
+  rotate: true
+  xy: 908, 6
+  size: 387, 463
+  orig: 500, 528
+  offset: 44, 28
+  index: -1
+bszd/mg_ganesha_win_a_007
+  rotate: true
+  xy: 423, 400
+  size: 400, 479
+  orig: 500, 528
+  offset: 69, 30
+  index: -1
+bszd/mg_ganesha_win_a_008
+  rotate: false
+  xy: 1397, 224
+  size: 399, 481
+  orig: 500, 528
+  offset: 69, 30
+  index: -1
+bszd/mg_ganesha_win_a_009
+  rotate: true
+  xy: 423, 2
+  size: 391, 483
+  orig: 500, 528
+  offset: 69, 28
+  index: -1
+jdtjm/mg_ganesha_react_006
+  rotate: false
+  xy: 1409, 707
+  size: 385, 493
+  orig: 500, 528
+  offset: 53, 18
+  index: -1
+jdtjm/mg_ganesha_react_007
+  rotate: true
+  xy: 422, 802
+  size: 398, 492
+  orig: 500, 528
+  offset: 46, 18
+  index: -1
+jdtjm/mg_ganesha_react_008
+  rotate: true
+  xy: 916, 803
+  size: 397, 491
+  orig: 500, 528
+  offset: 44, 18
+  index: -1

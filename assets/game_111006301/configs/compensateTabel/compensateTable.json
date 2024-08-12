@@ -1,0 +1,10 @@
+{
+    "compensateTable": {
+        "title": "textures/ui/paytable/&_01",
+        "items": [
+            "textures/ui/paytable/&_02",
+            "textures/ui/paytable/&_03",
+            "textures/ui/paytable/0"
+        ]
+    }
+}

@@ -1,0 +1,167 @@
+
+zengjia.png
+size: 1388,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_00
+  rotate: true
+  xy: 1309, 149
+  size: 25, 27
+  orig: 158, 158
+  offset: 67, 66
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_01
+  rotate: true
+  xy: 1074, 134
+  size: 127, 124
+  orig: 158, 158
+  offset: 16, 17
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_02
+  rotate: false
+  xy: 1203, 15
+  size: 131, 132
+  orig: 158, 158
+  offset: 13, 13
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_03
+  rotate: true
+  xy: 797, 2
+  size: 130, 129
+  orig: 158, 158
+  offset: 14, 16
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_04
+  rotate: false
+  xy: 1076, 7
+  size: 125, 125
+  orig: 158, 158
+  offset: 17, 17
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_05
+  rotate: true
+  xy: 532, 3
+  size: 108, 113
+  orig: 158, 158
+  offset: 31, 22
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_06
+  rotate: false
+  xy: 1200, 149
+  size: 107, 112
+  orig: 158, 158
+  offset: 31, 22
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_07
+  rotate: true
+  xy: 348, 15
+  size: 92, 90
+  orig: 158, 158
+  offset: 32, 38
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_08
+  rotate: true
+  xy: 440, 15
+  size: 92, 90
+  orig: 158, 158
+  offset: 32, 38
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_09
+  rotate: true
+  xy: 1309, 176
+  size: 85, 68
+  orig: 158, 158
+  offset: 39, 42
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_10
+  rotate: false
+  xy: 348, 2
+  size: 81, 11
+  orig: 158, 158
+  offset: 41, 97
+  index: -1
+c498560d-c057-467c-9cc1-3bc59d17b74a.e99ef/multiplier_vfx_a_normal_11
+  rotate: false
+  xy: 431, 3
+  size: 81, 10
+  orig: 158, 158
+  offset: 41, 97
+  index: -1
+multiplier_vfx_d_screen
+  rotate: false
+  xy: 2, 9
+  size: 234, 252
+  orig: 234, 252
+  offset: 0, 0
+  index: -1
+zjtx/multiplier_vfx_b_screen_00
+  rotate: true
+  xy: 1336, 91
+  size: 56, 50
+  orig: 158, 158
+  offset: 50, 53
+  index: -1
+zjtx/multiplier_vfx_b_screen_01
+  rotate: false
+  xy: 238, 10
+  size: 108, 97
+  orig: 158, 158
+  offset: 24, 37
+  index: -1
+zjtx/multiplier_vfx_b_screen_02
+  rotate: false
+  xy: 936, 144
+  size: 136, 117
+  orig: 158, 158
+  offset: 11, 28
+  index: -1
+zjtx/multiplier_vfx_b_screen_03
+  rotate: false
+  xy: 647, 3
+  size: 148, 128
+  orig: 158, 158
+  offset: 3, 21
+  index: -1
+zjtx/multiplier_vfx_b_screen_04
+  rotate: true
+  xy: 502, 113
+  size: 148, 130
+  orig: 158, 158
+  offset: 4, 20
+  index: -1
+zjtx/multiplier_vfx_b_screen_05
+  rotate: true
+  xy: 238, 109
+  size: 152, 130
+  orig: 158, 158
+  offset: 0, 20
+  index: -1
+zjtx/multiplier_vfx_b_screen_06
+  rotate: true
+  xy: 370, 109
+  size: 152, 130
+  orig: 158, 158
+  offset: 0, 20
+  index: -1
+zjtx/multiplier_vfx_b_screen_07
+  rotate: false
+  xy: 634, 133
+  size: 150, 128
+  orig: 158, 158
+  offset: 1, 21
+  index: -1
+zjtx/multiplier_vfx_b_screen_08
+  rotate: false
+  xy: 786, 134
+  size: 148, 127
+  orig: 158, 158
+  offset: 3, 20
+  index: -1
+zjtx/multiplier_vfx_b_screen_09
+  rotate: false
+  xy: 928, 22
+  size: 146, 110
+  orig: 158, 158
+  offset: 4, 24
+  index: -1

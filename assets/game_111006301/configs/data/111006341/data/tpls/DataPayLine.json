@@ -1,0 +1,23 @@
+{
+	"keys": [1],
+
+	"ids": [1],
+
+	"data": {
+		"1" : 
+			{
+				"gameId": 111006341 ,
+				"lineId": 1 ,
+				"lineMode": 1 ,
+				"type": [{"lineType": 14,"index": 0}] ,
+				"linePos": [] ,
+				"assignElement": [] ,
+				"minElementKind": [] ,
+				"isBothway": [{"index": 0,"operate": 0}] ,
+				"extraIsBothway": [] ,
+				"typeCalc": 1 ,
+				"dirCalc": [{"index": 0,"operate": 1}] ,
+				"lineColor": [{"index": 0,"color": "#dde202"}] ,
+				"reward": [] }
+	}
+}

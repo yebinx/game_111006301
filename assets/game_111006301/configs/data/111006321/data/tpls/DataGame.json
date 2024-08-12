@@ -1,0 +1,29 @@
+{
+	"keys": [],
+
+	"ids": [111006321],
+
+	"data": {
+		"111006321" : 
+			{
+				"gameId": 111006321 ,
+				"icon": "gg" ,
+				"type": 4 ,
+				"row": 3 ,
+				"column": 5 ,
+				"minLines": 1 ,
+				"maxLines": 1 ,
+				"lineValue": [2,20] ,
+				"lineValueMultiple": [1,2,3,4,5,6,7,8,9,10] ,
+				"lineRate": [30] ,
+				"extraRate": 0 ,
+				"rateXulie": "[[2,1]]" ,
+				"autoSpinTimes": [10,30,50,80,1000] ,
+				"winningAnimationConditions": [{"winningType": 1,"rate": 35},{"winningType": 2,"rate": 15},{"winningType": 3,"rate": 5},{"winningType": 4,"rate": 0}] ,
+				"gridShape": "[[1,2,3],[4,5,6],[7,8,9],[10,11,12],[13,14,15]]" ,
+				"specialGridShow": "[]" ,
+				"gridDetail": [8,10,5,6,7,7,9,1,3,2,2,4,3,7,4] ,
+				"size": 0 ,
+				"freeGame": 0 }
+	}
+}

@@ -1,0 +1,198 @@
+{
+    "countAtlas": {
+        "atlas": "textures/common/numAtlas/number_font",
+        "config": [
+            {
+                "id": 0,
+                "spriteFrameName": "autospin_0"
+            },
+            {
+                "id": 1,
+                "spriteFrameName": "autospin_1"
+            },
+            {
+                "id": 2,
+                "spriteFrameName": "autospin_2"
+            },
+            {
+                "id": 3,
+                "spriteFrameName": "autospin_3"
+            },
+            {
+                "id": 4,
+                "spriteFrameName": "autospin_4"
+            },
+            {
+                "id": 5,
+                "spriteFrameName": "autospin_5"
+            },
+            {
+                "id": 6,
+                "spriteFrameName": "autospin_6"
+            },
+            {
+                "id": 7,
+                "spriteFrameName": "autospin_7"
+            },
+            {
+                "id": 8,
+                "spriteFrameName": "autospin_8"
+            },
+            {
+                "id": 9,
+                "spriteFrameName": "autospin_9"
+            }
+        ],
+        "scale": 0.4,
+        "spaceX": 0,
+        "x": 0,
+        "y": 5
+    },
+    "winAtlas": {
+        "atlas": "textures/common/numAtlas/number_font",
+        "config": [
+            {
+                "id": 0,
+                "spriteFrameName": "info_0"
+            },
+            {
+                "id": 1,
+                "spriteFrameName": "info_1"
+            },
+            {
+                "id": 2,
+                "spriteFrameName": "info_2"
+            },
+            {
+                "id": 3,
+                "spriteFrameName": "info_3"
+            },
+            {
+                "id": 4,
+                "spriteFrameName": "info_4"
+            },
+            {
+                "id": 5,
+                "spriteFrameName": "info_5"
+            },
+            {
+                "id": 6,
+                "spriteFrameName": "info_6"
+            },
+            {
+                "id": 7,
+                "spriteFrameName": "info_7"
+            },
+            {
+                "id": 8,
+                "spriteFrameName": "info_8"
+            },
+            {
+                "id": 9,
+                "spriteFrameName": "info_9"
+            }
+        ],
+        "scale": 0.26,
+        "spaceX": -10,
+        "x": 0,
+        "y": 5
+    },
+    "bg": {
+        "atlas": "textures/bg/sym_payout",
+        "spriteFrame": "payoutwindow_gg",
+        "left_flip": true,
+        "right_flip": true,
+        "width": 345,
+        "height": 192,
+        "specialWidth": 460,
+        "specialHeight": 192,
+        "offsetBgX": 6
+    },
+    "specialDesc": {
+        "9": {
+            "languageId": "111006301_element01",
+            "color": "#FFFFFF",
+            "font_size": 26,
+            "bg": "payoutwindow_gg",
+            "offsetDescX": 0
+        },
+        "10": {
+            "languageId": "111006301_element02",
+            "color": "#FFFFFF",
+            "font_size": 26,
+            "bg": "payoutwindow_gg"
+        }
+    },
+    "elementAnimation": {
+        "1": {
+            "scale": 1,
+            "aniName": ""
+        },
+        "2": {
+            "scale": 1,
+            "aniName": ""
+        },
+        "3": {
+            "scale": 1,
+            "aniName": ""
+        },
+        "4": {
+            "scale": 1,
+            "aniName": ""
+        },
+        "5": {
+            "scale": 1,
+            "aniName": "win"
+        },
+        "6": {
+            "scale": 1,
+            "aniName": "win"
+        },
+        "7": {
+            "scale": 1,
+            "aniName": "win"
+        },
+        "8": {
+            "scale": 1,
+            "aniName": "win"
+        },
+        "9": {
+            "scale": 1,
+            "aniName": "idle"
+        },
+        "10": {
+            "scale": 1,
+            "aniName": "idle"
+        }
+    },
+    "show": {
+        "maxNum": 3,
+        "isReverse": true,
+        "anchorX": 0.5,
+        "anchorX_r": 0.5
+    },
+    "rewardLayout": {
+        "spacingX": 70,
+        "spacingY": 50,
+        "startX": 5,
+        "startY": -5,
+        "num_spacingX": -10,
+        "left_x": 40,
+        "right_x": -130
+    },
+    "isShowMask": true,
+    "maskAlpha": 155,
+    "isMoreData": false,
+    "more": {
+        "str": ":",
+        "x_l": 10,
+        "y_l": 0,
+        "x_r": 45,
+        "y_r": 0
+    },
+    "MoreDate": [
+        5,
+        4,
+        3
+    ]
+}

@@ -1,0 +1,173 @@
+
+wild_win.jpg
+size: 1190,1102
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajiangguangxiao03/bw_vfx_i_screen_00
+  rotate: true
+  xy: 274, 39
+  size: 270, 297
+  orig: 270, 585
+  offset: 0, 174
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_01
+  rotate: false
+  xy: 274, 590
+  size: 270, 263
+  orig: 270, 585
+  offset: 0, 185
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_02
+  rotate: false
+  xy: 2, 596
+  size: 270, 257
+  orig: 270, 585
+  offset: 0, 197
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_03
+  rotate: false
+  xy: 788, 849
+  size: 270, 251
+  orig: 270, 585
+  offset: 0, 208
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_04
+  rotate: false
+  xy: 244, 855
+  size: 270, 245
+  orig: 270, 585
+  offset: 0, 218
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_05
+  rotate: false
+  xy: 516, 855
+  size: 270, 245
+  orig: 270, 585
+  offset: 0, 222
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_06
+  rotate: true
+  xy: 901, 579
+  size: 268, 283
+  orig: 270, 585
+  offset: 2, 184
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_07
+  rotate: true
+  xy: 274, 311
+  size: 268, 355
+  orig: 270, 585
+  offset: 2, 118
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_08
+  rotate: true
+  xy: 631, 309
+  size: 268, 363
+  orig: 270, 585
+  offset: 2, 118
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_09
+  rotate: true
+  xy: 546, 581
+  size: 266, 353
+  orig: 270, 585
+  offset: 4, 128
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_10
+  rotate: true
+  xy: 573, 37
+  size: 270, 343
+  orig: 270, 585
+  offset: 0, 139
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_11
+  rotate: false
+  xy: 918, 2
+  size: 270, 305
+  orig: 270, 585
+  offset: 0, 150
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_12
+  rotate: false
+  xy: 2, 44
+  size: 270, 279
+  orig: 270, 585
+  offset: 0, 163
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_13
+  rotate: false
+  xy: 2, 325
+  size: 270, 269
+  orig: 270, 585
+  offset: 0, 176
+  index: -1
+fangkuang
+  rotate: false
+  xy: 2, 865
+  size: 240, 235
+  orig: 280, 276
+  offset: 19, 22
+  index: -1
+
+wild_win2.jpg
+size: 1163,861
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dajaingguangxiao/bw_vfx_b_add
+  rotate: false
+  xy: 2, 319
+  size: 540, 540
+  orig: 540, 540
+  offset: 0, 0
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_14
+  rotate: false
+  xy: 544, 514
+  size: 270, 345
+  orig: 270, 585
+  offset: 0, 105
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_15
+  rotate: true
+  xy: 816, 589
+  size: 270, 345
+  orig: 270, 585
+  offset: 0, 110
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_16
+  rotate: true
+  xy: 816, 317
+  size: 270, 337
+  orig: 270, 585
+  offset: 0, 121
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_17
+  rotate: true
+  xy: 818, 45
+  size: 270, 329
+  orig: 270, 585
+  offset: 0, 131
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_18
+  rotate: false
+  xy: 2, 2
+  size: 270, 315
+  orig: 270, 585
+  offset: 0, 142
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_19
+  rotate: false
+  xy: 274, 4
+  size: 270, 313
+  orig: 270, 585
+  offset: 0, 152
+  index: -1
+dajiangguangxiao03/bw_vfx_i_screen_20
+  rotate: false
+  xy: 546, 4
+  size: 270, 311
+  orig: 270, 585
+  offset: 0, 163
+  index: -1

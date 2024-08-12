@@ -1,0 +1,78 @@
+{
+    "gmconfig": {
+        "dev": [
+            {
+                "title": "3个分散",
+                "cmd": "set_index",
+                "default": "1 [9,9,9,5,5]"
+            },
+            {
+                "title": "4个分散",
+                "cmd": "set_index",
+                "default": "1 [9,9,9,9,5]"
+            },
+            {
+                "title": "5个分散",
+                "cmd": "set_index",
+                "default": "1 [9,9,9,9,9]"
+            },
+            {
+                "title": "超级大奖",
+                "cmd": "set_index",
+                "default": "1 [8,8,8,8,8]"
+            },
+            {
+                "title": "大奖",
+                "cmd": "set_index",
+                "default": "1 [9,9,9,9,7]"
+            },
+            {
+                "title": "中奖",
+                "cmd": "set_index",
+                "default": "1 [3,3,3,3,1]"
+            },
+            {
+                "title": "加减奖池",
+                "cmd": "add",
+                "default": ""
+            }
+        ],
+        "sit": [
+            {
+                "title": "3个分散",
+                "cmd": "set_index",
+                "default": "1 [21,21,21,19,19]"
+            },
+            {
+                "title": "4个分散",
+                "cmd": "set_index",
+                "default": "1 [21,21,21,21,19]"
+            },
+            {
+                "title": "5个分散",
+                "cmd": "set_index",
+                "default": "1 [21,21,21,21,21]"
+            },
+            {
+                "title": "超级大奖",
+                "cmd": "set_index",
+                "default": "1 [19,19,19,19,19]"
+            },
+            {
+                "title": "大奖",
+                "cmd": "set_index",
+                "default": "1 [9,9,9,9,7]"
+            },
+            {
+                "title": "中奖",
+                "cmd": "set_index",
+                "default": "1 [3,3,3,3,1]"
+            },
+            {
+                "title": "加减奖池",
+                "cmd": "add",
+                "default": ""
+            }
+        ]
+    }
+}

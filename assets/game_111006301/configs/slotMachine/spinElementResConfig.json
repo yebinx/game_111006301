@@ -1,0 +1,114 @@
+{
+    "spinElementResConfig": {
+        "8": {
+            "normalImage": "l_j",
+            "normalImageScale": 1,
+            "normalImageTrim": false,
+            "blurImage": "l_j_blur",
+            "blurImageScale": 1.4,
+            "fadeImage": "",
+            "fadeImageScale": "",
+            "skeletonUrl": "",
+            "frameClipUrl": "",
+            "premultipliedAlpha": "",
+            "dragonAssetUrl": "",
+            "dragonAssetAtlasUrl": "",
+            "dragonArmature": ""
+        },
+        "7": {
+            "normalImage": "l_q",
+            "normalImageScale": 1,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "l_q_blur",
+            "fadeImage": "",
+            "skeletonUrl": "",
+            "frameClipUrl": ""
+        },
+        "6": {
+            "normalImage": "l_k",
+            "normalImageScale": 1,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "l_k_blur",
+            "fadeImage": "",
+            "skeletonUrl": "",
+            "frameClipUrl": ""
+        },
+        "5": {
+            "normalImage": "l_a",
+            "normalImageScale": 1,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "l_a_blur",
+            "fadeImage": "",
+            "skeletonUrl": "",
+            "frameClipUrl": ""
+        },
+        "4": {
+            "normalImage": "h_powder",
+            "normalImageScale": 1,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "h_powder_blur",
+            "fadeImage": "",
+            "premultipliedAlpha": true,
+            "skeletonUrl": "skeleton/card/h_powder/h_powder",
+            "frameClipUrl": ""
+        },
+        "3": {
+            "normalImage": "h_flower",
+            "normalImageScale": 1,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "h_flower_blur",
+            "fadeImage": "",
+            "premultipliedAlpha": true,
+            "skeletonUrl": "skeleton/card/h_flower/h_flower",
+            "frameClipUrl": ""
+        },
+        "2": {
+            "normalImage": "h_diya",
+            "normalImageScale": 1,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "h_diya_blur",
+            "fadeImage": "",
+            "premultipliedAlpha": true,
+            "skeletonUrl": "skeleton/card/h_diya/h_diya",
+            "frameClipUrl": ""
+        },
+        "1": {
+            "normalImage": "h_lady",
+            "normalImageScale": 1,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "h_lady_blur",
+            "fadeImage": "",
+            "premultipliedAlpha": true,
+            "skeletonUrl": "skeleton/card/h_lady/h_lady",
+            "frameClipUrl": ""
+        },
+        "9": {
+            "normalImage": "s_wild",
+            "normalImageScale": 0.93,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "s_wild_blur",
+            "fadeImage": "",
+            "premultipliedAlpha": true,
+            "skeletonUrl": "skeleton/card/s_wild_&/s_wild",
+            "frameClipUrl": ""
+        },
+        "10": {
+            "normalImage": "s_scatter",
+            "normalImageScale": 0.93,
+            "normalImageTrim": false,
+            "blurImageScale": 1.4,
+            "blurImage": "s_scatter_blur",
+            "fadeImage": "",
+            "skeletonUrl": "skeleton/card/s_scatter_&/s_scatter",
+            "frameClipUrl": ""
+        }
+    }
+}

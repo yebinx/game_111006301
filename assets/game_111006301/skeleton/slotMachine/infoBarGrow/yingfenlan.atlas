@@ -1,0 +1,342 @@
+
+yingfenlan.png
+size: 2021,748
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_part/flare_01_5_kind
+  rotate: false
+  xy: 1741, 620
+  size: 177, 93
+  orig: 177, 93
+  offset: 0, 0
+  index: -1
+light_part/flare_01_general
+  rotate: false
+  xy: 1778, 78
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1
+light_part/infoboard_a_glow_01
+  rotate: false
+  xy: 908, 0
+  size: 310, 54
+  orig: 310, 54
+  offset: 0, 0
+  index: -1
+light_part/infoboard_a_glow_02
+  rotate: false
+  xy: 508, 499
+  size: 190, 22
+  orig: 190, 22
+  offset: 0, 0
+  index: -1
+light_part/infoboard_b_glow_01
+  rotate: true
+  xy: 1920, 391
+  size: 322, 70
+  orig: 322, 70
+  offset: 0, 0
+  index: -1
+light_part/infoboard_b_glow_04
+  rotate: false
+  xy: 1739, 715
+  size: 198, 33
+  orig: 198, 33
+  offset: 0, 0
+  index: -1
+part_ui/infoboard_a
+  rotate: false
+  xy: 0, 523
+  size: 708, 91
+  orig: 708, 91
+  offset: 0, 0
+  index: -1
+part_ui/infoboard_b
+  rotate: false
+  xy: 0, 616
+  size: 721, 132
+  orig: 721, 132
+  offset: 0, 0
+  index: -1
+reel_su_particle/particle_out_b_info_00
+  rotate: false
+  xy: 504, 71
+  size: 476, 20
+  orig: 540, 138
+  offset: 39, 2
+  index: -1
+reel_su_particle/particle_out_b_info_01
+  rotate: false
+  xy: 502, 181
+  size: 484, 30
+  orig: 540, 138
+  offset: 41, 6
+  index: -1
+reel_su_particle/particle_out_b_info_02
+  rotate: false
+  xy: 504, 93
+  size: 480, 38
+  orig: 540, 138
+  offset: 41, 11
+  index: -1
+reel_su_particle/particle_out_b_info_03
+  rotate: false
+  xy: 504, 133
+  size: 482, 46
+  orig: 540, 138
+  offset: 42, 13
+  index: -1
+reel_su_particle/particle_out_b_info_04
+  rotate: false
+  xy: 996, 208
+  size: 484, 54
+  orig: 540, 138
+  offset: 42, 12
+  index: -1
+reel_su_particle/particle_out_b_info_05
+  rotate: false
+  xy: 1002, 264
+  size: 488, 60
+  orig: 540, 138
+  offset: 40, 12
+  index: -1
+reel_su_particle/particle_out_b_info_06
+  rotate: false
+  xy: 502, 213
+  size: 492, 66
+  orig: 540, 138
+  offset: 38, 12
+  index: -1
+reel_su_particle/particle_out_b_info_07
+  rotate: false
+  xy: 1243, 590
+  size: 496, 72
+  orig: 540, 138
+  offset: 35, 12
+  index: -1
+reel_su_particle/particle_out_b_info_08
+  rotate: false
+  xy: 1032, 412
+  size: 500, 76
+  orig: 540, 138
+  offset: 33, 13
+  index: -1
+reel_su_particle/particle_out_b_info_09
+  rotate: false
+  xy: 506, 281
+  size: 494, 80
+  orig: 540, 138
+  offset: 40, 14
+  index: -1
+reel_su_particle/particle_out_b_info_10
+  rotate: false
+  xy: 1010, 326
+  size: 496, 84
+  orig: 540, 138
+  offset: 39, 17
+  index: -1
+reel_su_particle/particle_out_b_info_11
+  rotate: false
+  xy: 0, 263
+  size: 498, 86
+  orig: 540, 138
+  offset: 38, 19
+  index: -1
+reel_su_particle/particle_out_b_info_12
+  rotate: false
+  xy: 0, 177
+  size: 500, 84
+  orig: 540, 138
+  offset: 37, 21
+  index: -1
+reel_su_particle/particle_out_b_info_13
+  rotate: false
+  xy: 508, 363
+  size: 500, 80
+  orig: 540, 138
+  offset: 37, 23
+  index: -1
+reel_su_particle/particle_out_b_info_14
+  rotate: false
+  xy: 0, 93
+  size: 502, 82
+  orig: 540, 138
+  offset: 36, 25
+  index: -1
+reel_su_particle/particle_out_b_info_15
+  rotate: false
+  xy: 0, 11
+  size: 502, 80
+  orig: 540, 138
+  offset: 36, 30
+  index: -1
+reel_su_particle/particle_out_b_info_16
+  rotate: false
+  xy: 710, 527
+  size: 504, 80
+  orig: 540, 138
+  offset: 35, 33
+  index: -1
+reel_su_particle/particle_out_b_info_17
+  rotate: false
+  xy: 0, 351
+  size: 504, 82
+  orig: 540, 138
+  offset: 35, 36
+  index: -1
+reel_su_particle/particle_out_b_info_18
+  rotate: false
+  xy: 1231, 664
+  size: 506, 84
+  orig: 540, 138
+  offset: 34, 38
+  index: -1
+reel_su_particle/particle_out_b_info_19
+  rotate: false
+  xy: 723, 662
+  size: 506, 86
+  orig: 540, 138
+  offset: 34, 41
+  index: -1
+reel_su_particle/particle_out_b_info_20
+  rotate: false
+  xy: 0, 435
+  size: 506, 86
+  orig: 540, 138
+  offset: 34, 44
+  index: -1
+reel_su_particle/particle_out_b_info_21
+  rotate: false
+  xy: 1534, 400
+  size: 324, 88
+  orig: 540, 138
+  offset: 161, 47
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_00
+  rotate: true
+  xy: 1992, 432
+  size: 316, 29
+  orig: 540, 105
+  offset: 26, 2
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_01
+  rotate: false
+  xy: 710, 490
+  size: 504, 35
+  orig: 540, 105
+  offset: 19, 6
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_02
+  rotate: false
+  xy: 1216, 490
+  size: 528, 39
+  orig: 540, 105
+  offset: 12, 11
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_03
+  rotate: false
+  xy: 508, 445
+  size: 522, 43
+  orig: 540, 105
+  offset: 9, 15
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_04
+  rotate: false
+  xy: 723, 609
+  size: 518, 51
+  orig: 540, 105
+  offset: 4, 14
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_05
+  rotate: false
+  xy: 1216, 531
+  size: 514, 57
+  orig: 540, 105
+  offset: 1, 14
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_06
+  rotate: false
+  xy: 1492, 254
+  size: 398, 63
+  orig: 540, 105
+  offset: 113, 15
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_07
+  rotate: false
+  xy: 504, 0
+  size: 402, 69
+  orig: 540, 105
+  offset: 114, 16
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_08
+  rotate: false
+  xy: 986, 56
+  size: 404, 73
+  orig: 540, 105
+  offset: 117, 17
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_09
+  rotate: false
+  xy: 988, 131
+  size: 406, 75
+  orig: 540, 105
+  offset: 118, 19
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_10
+  rotate: false
+  xy: 1508, 319
+  size: 386, 79
+  orig: 540, 105
+  offset: 120, 21
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_11
+  rotate: false
+  xy: 1482, 171
+  size: 384, 81
+  orig: 540, 105
+  offset: 121, 24
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_12
+  rotate: false
+  xy: 1396, 90
+  size: 380, 79
+  orig: 540, 105
+  offset: 124, 26
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_13
+  rotate: false
+  xy: 1392, 13
+  size: 378, 75
+  orig: 540, 105
+  offset: 125, 30
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_14
+  rotate: true
+  xy: 1905, 13
+  size: 376, 61
+  orig: 540, 105
+  offset: 126, 33
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_15
+  rotate: true
+  xy: 1968, 13
+  size: 376, 51
+  orig: 540, 105
+  offset: 126, 47
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_16
+  rotate: false
+  xy: 1220, 9
+  size: 168, 45
+  orig: 540, 105
+  offset: 128, 49
+  index: -1
+tb_win_particle_animation_01/particle_out_a_info_17
+  rotate: false
+  xy: 1741, 573
+  size: 168, 45
+  orig: 540, 105
+  offset: 128, 52
+  index: -1

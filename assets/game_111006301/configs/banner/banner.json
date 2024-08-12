@@ -1,0 +1,21 @@
+{
+    "banner": [
+        {
+            "atlas": "textures/font/&/general_text",
+            "spriteFrames": [
+                [
+                    "info4",
+                    "info5",
+                    "info6",
+                    "info1"
+                ],
+                [
+                    "info1",
+                    "info2",
+                    "info4",
+                    "info3"
+                ]
+            ]
+        }
+    ]
+}

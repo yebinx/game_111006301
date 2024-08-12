@@ -1,0 +1,89 @@
+{
+    "slotMachine": {
+        "confList": {
+            "111006301": [
+                "configs/data/111006301/data/tpls/DataElement",
+                "configs/data/111006301/data/tpls/DataFreeLines",
+                "configs/data/111006301/data/tpls/DataGame",
+                "configs/data/111006301/data/tpls/DataPayLine",
+                "configs/data/111006301/data/tpls/DataRoller",
+                "configs/data/111006301/data/tpls/DataFreeRoller"
+            ],
+            "111006311": [
+                "configs/data/111006311/data/tpls/DataElement",
+                "configs/data/111006311/data/tpls/DataFreeLines",
+                "configs/data/111006311/data/tpls/DataGame",
+                "configs/data/111006311/data/tpls/DataPayLine",
+                "configs/data/111006311/data/tpls/DataRoller",
+                "configs/data/111006311/data/tpls/DataFreeRoller"
+            ],
+            "111006321": [
+                "configs/data/111006321/data/tpls/DataElement",
+                "configs/data/111006321/data/tpls/DataFreeLines",
+                "configs/data/111006321/data/tpls/DataGame",
+                "configs/data/111006321/data/tpls/DataPayLine",
+                "configs/data/111006321/data/tpls/DataRoller",
+                "configs/data/111006321/data/tpls/DataFreeRoller"
+            ],
+            "111006341": [
+                "configs/data/111006341/data/tpls/DataElement",
+                "configs/data/111006341/data/tpls/DataFreeLines",
+                "configs/data/111006341/data/tpls/DataGame",
+                "configs/data/111006341/data/tpls/DataPayLine",
+                "configs/data/111006341/data/tpls/DataRoller",
+                "configs/data/111006341/data/tpls/DataFreeRoller"
+            ]
+        },
+        "cardRes": [
+            "textures/slotMachine/card/symbol_packed_1",
+            "textures/slotMachine/card/symbol_packed_1"
+        ],
+        "cardResLang": {
+            "en": [
+                "textures/slotMachine/card/en/symbol_lang_packed"
+            ],
+            "zh": [
+                "textures/slotMachine/card/zh/symbol_lang_packed"
+            ]
+        }
+    },
+    "bonusGamePrefab": "prefabs/bonusGame/bonusGame",
+    "scrollerSetting": {
+        "beginTime": {
+            "normal": 0,
+            "fast": 0
+        },
+        "distance": {
+            "normal": 0,
+            "fast": 0
+        },
+        "delayTime": {
+            "normal": 100,
+            "fast": 0
+        },
+        "endDelayTime": {
+            "normal": 100,
+            "fast": 0
+        },
+        "endDistance": {
+            "normal": 0,
+            "fast": 0
+        },
+        "endTime": {
+            "normal": 0,
+            "fast": 0
+        },
+        "time": {
+            "normal": 10,
+            "fast": 10
+        },
+        "speed": {
+            "normal": 70,
+            "fast": 110
+        },
+        "endSpeed": {
+            "normal": 0,
+            "fast": 0
+        }
+    }
+}

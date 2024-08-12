@@ -1,0 +1,100 @@
+{
+	"0": {
+		"ID": "0",
+		"color": "#42e567",
+		"name": "Dxxxx",
+		"describe": "来了，来了，来了",
+		"icon": ""
+	},
+	"1": {
+		"ID": "1",
+		"color": "#42e567",
+		"name": "Jxxxx",
+		"describe": "厉害了！厉害了！",
+		"icon": "e_05"
+	},
+	"2": {
+		"ID": "2",
+		"color": "#4cfe380",
+		"name": "Jxx",
+		"describe": "bonus bonus bonus",
+		"icon": "e_03"
+	},
+	"3": {
+		"ID": "3",
+		"color": "#ffffff",
+		"name": "Cxxx",
+		"describe": "Atta boy~",
+		"icon": ""
+	},
+	"4": {
+		"ID": "4",
+		"color": "#4cfe380",
+		"name": "Bxxxx",
+		"describe": "bonus bonus bonus",
+		"icon": "e_03"
+	},
+	"5": {
+		"ID": "5",
+		"color": "#ffffff",
+		"name": "Mxxx",
+		"describe": "Enter Bonus look so effortlessly!OMG",
+		"icon": ""
+	},
+	"6": {
+		"ID": "6",
+		"color": "#42e567",
+		"name": "Cxxx",
+		"describe": "WOOHOOO NICELY DONE",
+		"icon": ""
+	},
+	"7": {
+		"ID": "7",
+		"color": "#cb5968",
+		"name": "Axxx",
+		"describe": "Enter Bonus look so effortlessly!OMG！",
+		"icon": ""
+	},
+	"8": {
+		"ID": "8",
+		"color": "#5c98f2",
+		"name": "Nxxx",
+		"describe": "Enter Bonus look so effortlessly!OMG！",
+		"icon": ""
+	},
+	"9": {
+		"ID": "9",
+		"color": "#5c98f2",
+		"name": "Mxx",
+		"describe": "厉害了！厉害了！",
+		"icon": "e_02"
+	},
+	"10": {
+		"ID": "10",
+		"color": "#4cfe380",
+		"name": "Mxx",
+		"describe": "厉害了！厉害了！",
+		"icon": ""
+	},
+	"11": {
+		"ID": "11",
+		"color": "#ffffff",
+		"name": "Nxxx",
+		"describe": "有了！！！！！",
+		"icon": ""
+	},
+	"12": {
+		"ID": "12",
+		"color": "#4cfe380",
+		"name": "Rxxx",
+		"describe": "Give it to me!",
+		"icon": ""
+	},
+	"13": {
+		"ID": "13",
+		"color": "#5c98f2",
+		"name": "Lxxx",
+		"describe": "大奖，大奖，大奖！",
+		"icon": ""
+	}
+}

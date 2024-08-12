@@ -1,0 +1,265 @@
+
+xuanzhuanannui.jpg
+size: 1858,430
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_part/flare_01_general
+  rotate: false
+  xy: 736, 15
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1
+part_ui/base
+  rotate: true
+  xy: 965, 15
+  size: 93, 91
+  orig: 94, 91
+  offset: 0, 0
+  index: -1
+particle_out_spin_00
+  rotate: true
+  xy: 444, 2
+  size: 32, 36
+  orig: 194, 230
+  offset: 78, 120
+  index: -1
+particle_out_spin_01
+  rotate: true
+  xy: 1786, 102
+  size: 56, 72
+  orig: 194, 230
+  offset: 68, 100
+  index: -1
+particle_out_spin_02
+  rotate: false
+  xy: 1058, 2
+  size: 78, 106
+  orig: 194, 230
+  offset: 57, 78
+  index: -1
+particle_out_spin_03
+  rotate: true
+  xy: 598, 12
+  size: 94, 136
+  orig: 194, 230
+  offset: 50, 58
+  index: -1
+particle_out_spin_04
+  rotate: true
+  xy: 1138, 6
+  size: 110, 152
+  orig: 194, 230
+  offset: 42, 50
+  index: -1
+particle_out_spin_05
+  rotate: true
+  xy: 1422, 154
+  size: 122, 168
+  orig: 194, 230
+  offset: 36, 39
+  index: -1
+particle_out_spin_06
+  rotate: true
+  xy: 1238, 144
+  size: 130, 182
+  orig: 194, 230
+  offset: 32, 30
+  index: -1
+particle_out_spin_07
+  rotate: false
+  xy: 450, 238
+  size: 138, 192
+  orig: 194, 230
+  offset: 28, 23
+  index: -1
+particle_out_spin_08
+  rotate: false
+  xy: 304, 228
+  size: 144, 202
+  orig: 194, 230
+  offset: 25, 16
+  index: -1
+particle_out_spin_09
+  rotate: false
+  xy: 300, 18
+  size: 142, 208
+  orig: 194, 230
+  offset: 29, 12
+  index: -1
+particle_out_spin_10
+  rotate: false
+  xy: 0, 10
+  size: 146, 212
+  orig: 194, 230
+  offset: 27, 9
+  index: -1
+particle_out_spin_11
+  rotate: false
+  xy: 154, 228
+  size: 148, 202
+  orig: 194, 230
+  offset: 26, 6
+  index: -1
+particle_out_spin_12
+  rotate: false
+  xy: 148, 18
+  size: 150, 204
+  orig: 194, 230
+  offset: 25, 4
+  index: -1
+particle_out_spin_13
+  rotate: false
+  xy: 0, 224
+  size: 152, 206
+  orig: 194, 230
+  offset: 24, 2
+  index: -1
+particle_out_spin_14
+  rotate: false
+  xy: 444, 36
+  size: 152, 190
+  orig: 194, 230
+  offset: 24, 1
+  index: -1
+particle_out_spin_15
+  rotate: false
+  xy: 1292, 0
+  size: 152, 142
+  orig: 194, 230
+  offset: 24, 48
+  index: -1
+particle_out_spin_16
+  rotate: true
+  xy: 1446, 0
+  size: 152, 142
+  orig: 194, 230
+  offset: 24, 48
+  index: -1
+particle_out_spin_17
+  rotate: false
+  xy: 1696, 294
+  size: 130, 136
+  orig: 194, 230
+  offset: 26, 48
+  index: -1
+particle_out_spin_18
+  rotate: false
+  xy: 1738, 22
+  size: 46, 136
+  orig: 194, 230
+  offset: 109, 48
+  index: -1
+particle_out_spin_19
+  rotate: false
+  xy: 482, 14
+  size: 38, 20
+  orig: 194, 230
+  offset: 109, 119
+  index: -1
+sb_click_pattern_unpack/pattern_00
+  rotate: false
+  xy: 863, 6
+  size: 100, 100
+  orig: 160, 160
+  offset: 30, 30
+  index: -1
+sb_click_pattern_unpack/pattern_01
+  rotate: false
+  xy: 1592, 160
+  size: 118, 118
+  orig: 160, 160
+  offset: 21, 21
+  index: -1
+sb_click_pattern_unpack/pattern_02
+  rotate: false
+  xy: 1712, 160
+  size: 132, 132
+  orig: 160, 160
+  offset: 14, 14
+  index: -1
+sb_click_pattern_unpack/pattern_03
+  rotate: false
+  xy: 1590, 6
+  size: 146, 146
+  orig: 160, 160
+  offset: 7, 7
+  index: -1
+sb_click_pattern_unpack/pattern_04
+  rotate: false
+  xy: 1544, 280
+  size: 150, 150
+  orig: 160, 160
+  offset: 5, 5
+  index: -1
+sb_click_pattern_unpack/pattern_05
+  rotate: false
+  xy: 1082, 118
+  size: 154, 154
+  orig: 160, 160
+  offset: 3, 3
+  index: -1
+sb_click_pattern_unpack/pattern_06
+  rotate: false
+  xy: 1390, 278
+  size: 152, 152
+  orig: 160, 160
+  offset: 4, 4
+  index: -1
+sb_click_pattern_unpack/pattern_07
+  rotate: false
+  xy: 1234, 276
+  size: 154, 154
+  orig: 160, 160
+  offset: 3, 3
+  index: -1
+sb_click_pattern_unpack/pattern_08
+  rotate: false
+  xy: 1076, 274
+  size: 156, 156
+  orig: 160, 160
+  offset: 2, 2
+  index: -1
+sb_click_pattern_unpack/pattern_09
+  rotate: false
+  xy: 922, 110
+  size: 158, 158
+  orig: 160, 160
+  offset: 1, 1
+  index: -1
+sb_click_pattern_unpack/pattern_10
+  rotate: false
+  xy: 598, 108
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+sb_click_pattern_unpack/pattern_11
+  rotate: false
+  xy: 752, 270
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+sb_click_pattern_unpack/pattern_12
+  rotate: false
+  xy: 760, 108
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+sb_click_pattern_unpack/pattern_13
+  rotate: false
+  xy: 914, 270
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1
+sb_click_pattern_unpack/pattern_14
+  rotate: false
+  xy: 590, 270
+  size: 160, 160
+  orig: 160, 160
+  offset: 0, 0
+  index: -1

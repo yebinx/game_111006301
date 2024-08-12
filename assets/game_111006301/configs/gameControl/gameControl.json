@@ -1,0 +1,174 @@
+{
+    "spacingX": 41,
+    "layoutActive": false,
+    "ctlBtn": {
+        "width": 130,
+        "x": 0,
+        "y": 4,
+        "normalRotateTime": 5,
+        "runRotateTime": 0.8,
+        "scale": 1.2,
+        "atlas": "textures/slotMachine/roll/part_ui",
+        "arrow": {
+            "x": 0,
+            "y": 0,
+            "spriteFrameName": "arrow"
+        },
+        "arrowGrey": {
+            "x": 0,
+            "y": 0,
+            "spriteFrameName": "arrow_grey"
+        },
+        "arrowBlur": {
+            "x": 0,
+            "y": 0,
+            "spriteFrameName": "arrow_blur"
+        },
+        "arrowBlurGrey": {
+            "x": 0,
+            "y": 0,
+            "spriteFrameName": "arrow_blur_grey"
+        },
+        "spin": {
+            "x": 0,
+            "y": 0,
+            "spriteFrameName": "base"
+        },
+        "auto": {
+            "x": 0,
+            "y": 0,
+            "spriteFrameName": "auto_spin"
+        }
+    },
+    "auto_btn": {
+        "isClickSound": true,
+        "width": 120,
+        "scale": 1.2,
+        "txt": {
+            "scale": 0.63,
+            "fontSize": 38,
+            "color": "#8A8888",
+            "x": 0,
+            "y": -51
+        },
+        "icon": {
+            "scale": 0.69,
+            "x": 0,
+            "y": 10
+        },
+        "y": -28
+    },
+    "bet_btn": {
+        "isClickSound": true,
+        "width": 120,
+        "scale": 1.2,
+        "txt": {
+            "spacingX": 10,
+            "scale": 0.63,
+            "fontSize": 38,
+            "betColor": "#8A8888",
+            "moneyColor": "#FFFFFF",
+            "x": -11,
+            "y": -53
+        },
+        "icon": {
+            "scale": 0.69,
+            "x": 0,
+            "y": 10
+        },
+        "y": -28,
+        "x": 185
+    },
+    "fast_btn": {
+        "isTipY": 400,
+        "isClickSound": true,
+        "width": 150,
+        "scale": 1,
+        "y": 0
+    },
+    "backBtn": {
+        "isClickSound": true,
+        "width": 110,
+        "y": -30,
+        "x": -40,
+        "icon": {
+            "x": 0,
+            "y": 0,
+            "scale": 1
+        },
+        "scale": 0.9
+    },
+    "btnEffect": [
+        {
+            "url": "skeleton/slotMachine/rotateBtn/xuanzhuanannui",
+            "zIndex": 1,
+            "houverAniName": "btn_hover",
+            "rotateAniName": "btn_click_back",
+            "rotateAniName2": "btn_click_top",
+            "houverAniName_auto": "btn_hover",
+            "autozIndex": -1,
+            "rotatezIndex": 4,
+            "rotatezIndex2": 20,
+            "houverzIndex": 3,
+            "x": 0,
+            "y": 0,
+            "scale": 2,
+            "normalTimeScale": 1,
+            "autoTimeScale": 1,
+            "houverNormalTimeScale": 1,
+            "houverAutoTimeScale": 1,
+            "houverAutoNormalTimeScale": 1,
+            "houverAutoAutoTimeScale": 1
+        }
+    ],
+    "autoTimes": {
+        "atlas": "textures/common/numAtlas/number_font",
+        "config": [
+            {
+                "id": 0,
+                "spriteFrameName": "autospin_0"
+            },
+            {
+                "id": 1,
+                "spriteFrameName": "autospin_1"
+            },
+            {
+                "id": 2,
+                "spriteFrameName": "autospin_2"
+            },
+            {
+                "id": 3,
+                "spriteFrameName": "autospin_3"
+            },
+            {
+                "id": 4,
+                "spriteFrameName": "autospin_4"
+            },
+            {
+                "id": 5,
+                "spriteFrameName": "autospin_5"
+            },
+            {
+                "id": 6,
+                "spriteFrameName": "autospin_6"
+            },
+            {
+                "id": 7,
+                "spriteFrameName": "autospin_7"
+            },
+            {
+                "id": 8,
+                "spriteFrameName": "autospin_8"
+            },
+            {
+                "id": 9,
+                "spriteFrameName": "autospin_9"
+            }
+        ],
+        "scale": 0.43,
+        "spaceX": 2,
+        "x": 0,
+        "y": 0,
+        "width": 72
+    }
+}

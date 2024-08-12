@@ -1,0 +1,20 @@
+{
+    "menu": {
+        "closeColor": "#8A8888",
+        "txtColor": "#8A8888",
+        "moveY": 15,
+        "menuBtnX": -370,
+        "menuOpenBtnScaleX": 1.1,
+        "menuOpenBtnScaleY": 1.1,
+        "width": 140,
+        "scale": 1,
+        "icon": {
+            "scale": 0.8,
+            "x": 0,
+            "y": 0
+        },
+        "openBtn": {
+            "offsetX": -10
+        }
+    }
+}

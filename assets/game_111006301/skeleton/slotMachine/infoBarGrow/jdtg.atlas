@@ -1,0 +1,118 @@
+
+jdtg.jpg
+size: 1950,120
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar_end_light/gem_glow_a_00
+  rotate: false
+  xy: 0, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_01
+  rotate: false
+  xy: 122, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_02
+  rotate: false
+  xy: 244, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_03
+  rotate: false
+  xy: 366, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_04
+  rotate: false
+  xy: 488, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_05
+  rotate: false
+  xy: 610, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_06
+  rotate: false
+  xy: 732, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_07
+  rotate: false
+  xy: 854, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_08
+  rotate: false
+  xy: 976, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_09
+  rotate: false
+  xy: 1098, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_10
+  rotate: false
+  xy: 1220, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_11
+  rotate: false
+  xy: 1342, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_12
+  rotate: false
+  xy: 1464, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_13
+  rotate: false
+  xy: 1586, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_14
+  rotate: false
+  xy: 1708, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1
+bar_end_light/gem_glow_a_15
+  rotate: false
+  xy: 1830, 0
+  size: 120, 120
+  orig: 120, 120
+  offset: 0, 0
+  index: -1

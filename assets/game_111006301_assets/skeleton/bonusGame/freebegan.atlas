@@ -1,0 +1,174 @@
+
+freebegan.png
+size: 1586,1154
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+c2c5426ea425b580cd443695442822d
+  rotate: false
+  xy: 1564, 1050
+  size: 12, 82
+  orig: 12, 82
+  offset: 0, 0
+  index: -1
+cloud_a
+  rotate: true
+  xy: 743, 774
+  size: 378, 819
+  orig: 378, 819
+  offset: 0, 0
+  index: -1
+collect_button
+  rotate: true
+  xy: 2, 4
+  size: 192, 66
+  orig: 192, 66
+  offset: 0, 0
+  index: -1
+collect_button_glow_02_total
+  rotate: true
+  xy: 1549, 447
+  size: 45, 26
+  orig: 45, 26
+  offset: 0, 0
+  index: -1
+flare_01_info
+  rotate: true
+  xy: 70, 71
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1
+flare_02_total
+  rotate: false
+  xy: 533, 88
+  size: 108, 108
+  orig: 108, 108
+  offset: 0, 0
+  index: -1
+fs_start_cloud
+  rotate: true
+  xy: 743, 16
+  size: 756, 804
+  orig: 756, 963
+  offset: 0, 0
+  index: -1
+fs_start_role
+  rotate: false
+  xy: 2, 198
+  size: 739, 954
+  orig: 739, 955
+  offset: 0, 0
+  index: -1
+tb_win_particle_animation/particle_out_00
+  rotate: true
+  xy: 1564, 1134
+  size: 18, 20
+  orig: 152, 152
+  offset: 68, 67
+  index: -1
+tb_win_particle_animation/particle_out_01
+  rotate: false
+  xy: 1549, 740
+  size: 34, 32
+  orig: 152, 152
+  offset: 61, 61
+  index: -1
+tb_win_particle_animation/particle_out_02
+  rotate: true
+  xy: 292, 28
+  size: 50, 44
+  orig: 152, 152
+  offset: 54, 54
+  index: -1
+tb_win_particle_animation/particle_out_03
+  rotate: true
+  xy: 148, 5
+  size: 64, 54
+  orig: 152, 152
+  offset: 48, 49
+  index: -1
+tb_win_particle_animation/particle_out_04
+  rotate: false
+  xy: 70, 3
+  size: 76, 66
+  orig: 152, 152
+  offset: 43, 44
+  index: -1
+tb_win_particle_animation/particle_out_05
+  rotate: false
+  xy: 204, 4
+  size: 86, 72
+  orig: 152, 152
+  offset: 39, 42
+  index: -1
+tb_win_particle_animation/particle_out_06
+  rotate: false
+  xy: 351, 2
+  size: 94, 78
+  orig: 152, 152
+  offset: 35, 38
+  index: -1
+tb_win_particle_animation/particle_out_07
+  rotate: false
+  xy: 639, 2
+  size: 100, 84
+  orig: 152, 152
+  offset: 33, 35
+  index: -1
+tb_win_particle_animation/particle_out_08
+  rotate: true
+  xy: 643, 90
+  size: 106, 88
+  orig: 152, 152
+  offset: 31, 33
+  index: -1
+tb_win_particle_animation/particle_out_09
+  rotate: false
+  xy: 533, 2
+  size: 104, 84
+  orig: 152, 152
+  offset: 36, 31
+  index: -1
+tb_win_particle_animation/particle_out_10
+  rotate: true
+  xy: 443, 86
+  size: 110, 88
+  orig: 152, 152
+  offset: 33, 29
+  index: -1
+tb_win_particle_animation/particle_out_11
+  rotate: true
+  xy: 351, 82
+  size: 114, 90
+  orig: 152, 152
+  offset: 31, 28
+  index: -1
+tb_win_particle_animation/particle_out_12
+  rotate: true
+  xy: 257, 80
+  size: 116, 92
+  orig: 152, 152
+  offset: 30, 26
+  index: -1
+tb_win_particle_animation/particle_out_13
+  rotate: true
+  xy: 163, 78
+  size: 118, 92
+  orig: 152, 152
+  offset: 30, 26
+  index: -1
+tb_win_particle_animation/particle_out_14
+  rotate: true
+  xy: 1549, 494
+  size: 120, 26
+  orig: 152, 152
+  offset: 29, 25
+  index: -1
+tb_win_particle_animation/particle_out_15
+  rotate: true
+  xy: 1549, 616
+  size: 122, 26
+  orig: 152, 152
+  offset: 28, 24
+  index: -1

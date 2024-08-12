@@ -1,0 +1,461 @@
+
+wuxinglianzhu.png
+size: 1505,396
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+5kind_active/wave_5_kind_00
+  rotate: true
+  xy: 1353, 1
+  size: 61, 32
+  orig: 75, 32
+  offset: 8, 0
+  index: -1
+5kind_active/wave_5_kind_01
+  rotate: true
+  xy: 1191, 0
+  size: 60, 32
+  orig: 75, 32
+  offset: 8, 0
+  index: -1
+5kind_active/wave_5_kind_02
+  rotate: true
+  xy: 1421, 20
+  size: 61, 32
+  orig: 75, 32
+  offset: 7, 0
+  index: -1
+5kind_active/wave_5_kind_03
+  rotate: true
+  xy: 1387, 3
+  size: 64, 32
+  orig: 75, 32
+  offset: 6, 0
+  index: -1
+5kind_active/wave_5_kind_04
+  rotate: false
+  xy: 1387, 83
+  size: 68, 32
+  orig: 75, 32
+  offset: 7, 0
+  index: -1
+5kind_active/wave_5_kind_05
+  rotate: false
+  xy: 1387, 117
+  size: 69, 32
+  orig: 75, 32
+  offset: 6, 0
+  index: -1
+5kind_active/wave_5_kind_06
+  rotate: true
+  xy: 1353, 64
+  size: 69, 32
+  orig: 75, 32
+  offset: 6, 0
+  index: -1
+5kind_active/wave_5_kind_07
+  rotate: true
+  xy: 1458, 69
+  size: 69, 32
+  orig: 75, 32
+  offset: 6, 0
+  index: -1
+5kind_active/wave_5_kind_08
+  rotate: false
+  xy: 1387, 151
+  size: 70, 32
+  orig: 75, 32
+  offset: 5, 0
+  index: -1
+5kind_active/wave_5_kind_09
+  rotate: true
+  xy: 1353, 135
+  size: 71, 32
+  orig: 75, 32
+  offset: 4, 0
+  index: -1
+5kind_active/wave_5_kind_10
+  rotate: true
+  xy: 1469, 140
+  size: 71, 32
+  orig: 75, 32
+  offset: 4, 0
+  index: -1
+5kind_active/wave_5_kind_11
+  rotate: false
+  xy: 1320, 262
+  size: 72, 32
+  orig: 75, 32
+  offset: 3, 0
+  index: -1
+5kind_active/wave_5_kind_12
+  rotate: true
+  xy: 1471, 213
+  size: 72, 32
+  orig: 75, 32
+  offset: 3, 0
+  index: -1
+5kind_active/wave_5_kind_13
+  rotate: false
+  xy: 1395, 219
+  size: 72, 32
+  orig: 75, 32
+  offset: 3, 0
+  index: -1
+5kind_active/wave_5_kind_14
+  rotate: false
+  xy: 1395, 185
+  size: 72, 32
+  orig: 75, 32
+  offset: 3, 0
+  index: -1
+5kind_active/wave_5_kind_15
+  rotate: true
+  xy: 1225, 0
+  size: 73, 32
+  orig: 75, 32
+  offset: 2, 0
+  index: -1
+5kind_active/wave_5_kind_16
+  rotate: false
+  xy: 1320, 364
+  size: 73, 32
+  orig: 75, 32
+  offset: 2, 0
+  index: -1
+5kind_active/wave_5_kind_17
+  rotate: false
+  xy: 1320, 330
+  size: 73, 32
+  orig: 75, 32
+  offset: 2, 0
+  index: -1
+5kind_active/wave_5_kind_18
+  rotate: false
+  xy: 1320, 296
+  size: 73, 32
+  orig: 75, 32
+  offset: 2, 0
+  index: -1
+5kind_active/wave_5_kind_19
+  rotate: false
+  xy: 1395, 253
+  size: 74, 32
+  orig: 75, 32
+  offset: 1, 0
+  index: -1
+5kind_active/wave_5_kind_20
+  rotate: false
+  xy: 256, 0
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+5kind_active/wave_5_kind_21
+  rotate: false
+  xy: 333, 0
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+5kind_active/wave_5_kind_22
+  rotate: false
+  xy: 410, 0
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+5kind_active/wave_5_kind_23
+  rotate: true
+  xy: 1259, 1
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+5kind_active/wave_5_kind_24
+  rotate: true
+  xy: 1293, 1
+  size: 75, 32
+  orig: 75, 32
+  offset: 0, 0
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_00
+  rotate: true
+  xy: 464, 106
+  size: 46, 15
+  orig: 142, 57
+  offset: 21, 16
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_01
+  rotate: true
+  xy: 1327, 6
+  size: 80, 24
+  orig: 142, 57
+  offset: 18, 14
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_02
+  rotate: true
+  xy: 1295, 266
+  size: 99, 23
+  orig: 142, 57
+  offset: 17, 12
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_03
+  rotate: false
+  xy: 1395, 367
+  size: 110, 29
+  orig: 142, 57
+  offset: 15, 9
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_04
+  rotate: false
+  xy: 781, 3
+  size: 114, 37
+  orig: 142, 57
+  offset: 14, 6
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_05
+  rotate: false
+  xy: 943, 198
+  size: 115, 44
+  orig: 142, 57
+  offset: 13, 3
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_06
+  rotate: true
+  xy: 1299, 88
+  size: 118, 49
+  orig: 142, 57
+  offset: 11, 2
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_07
+  rotate: false
+  xy: 1271, 208
+  size: 122, 51
+  orig: 142, 57
+  offset: 10, 2
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_08
+  rotate: true
+  xy: 1245, 78
+  size: 126, 52
+  orig: 142, 57
+  offset: 8, 2
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_09
+  rotate: true
+  xy: 1192, 75
+  size: 129, 51
+  orig: 142, 57
+  offset: 7, 3
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_10
+  rotate: true
+  xy: 1242, 261
+  size: 135, 51
+  orig: 142, 57
+  offset: 5, 3
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_11
+  rotate: false
+  xy: 1051, 0
+  size: 138, 53
+  orig: 142, 57
+  offset: 4, 1
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_12
+  rotate: true
+  xy: 996, 257
+  size: 139, 56
+  orig: 142, 57
+  offset: 3, 0
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_13
+  rotate: true
+  xy: 1037, 55
+  size: 141, 57
+  orig: 142, 57
+  offset: 1, 0
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_14
+  rotate: true
+  xy: 925, 52
+  size: 142, 57
+  orig: 142, 57
+  offset: 0, 0
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_15
+  rotate: true
+  xy: 984, 54
+  size: 142, 51
+  orig: 142, 57
+  offset: 0, 2
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_16
+  rotate: true
+  xy: 1054, 258
+  size: 138, 54
+  orig: 142, 57
+  offset: 4, 0
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_17
+  rotate: false
+  xy: 1134, 206
+  size: 135, 52
+  orig: 142, 57
+  offset: 7, 2
+  index: -1
+e8581f10-1922-453f-8390-84850f92a1d5.f624e/fly_particle_18
+  rotate: false
+  xy: 931, 0
+  size: 118, 50
+  orig: 142, 57
+  offset: 24, 3
+  index: -1
+light_part/flare_01_info
+  rotate: false
+  xy: 878, 196
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+particle_out_spin_00
+  rotate: false
+  xy: 897, 4
+  size: 32, 36
+  orig: 194, 230
+  offset: 78, 120
+  index: -1
+particle_out_spin_01
+  rotate: true
+  xy: 1060, 200
+  size: 56, 72
+  orig: 194, 230
+  offset: 68, 100
+  index: -1
+particle_out_spin_02
+  rotate: true
+  xy: 1395, 287
+  size: 78, 106
+  orig: 194, 230
+  offset: 57, 78
+  index: -1
+particle_out_spin_03
+  rotate: false
+  xy: 1096, 62
+  size: 94, 136
+  orig: 194, 230
+  offset: 50, 58
+  index: -1
+particle_out_spin_04
+  rotate: false
+  xy: 884, 244
+  size: 110, 152
+  orig: 194, 230
+  offset: 42, 50
+  index: -1
+particle_out_spin_05
+  rotate: false
+  xy: 132, 14
+  size: 122, 168
+  orig: 194, 230
+  offset: 36, 39
+  index: -1
+particle_out_spin_06
+  rotate: false
+  xy: 0, 0
+  size: 130, 182
+  orig: 194, 230
+  offset: 32, 30
+  index: -1
+particle_out_spin_07
+  rotate: false
+  xy: 487, 0
+  size: 138, 192
+  orig: 194, 230
+  offset: 28, 23
+  index: -1
+particle_out_spin_08
+  rotate: false
+  xy: 594, 194
+  size: 144, 202
+  orig: 194, 230
+  offset: 25, 16
+  index: -1
+particle_out_spin_09
+  rotate: false
+  xy: 148, 188
+  size: 142, 208
+  orig: 194, 230
+  offset: 29, 12
+  index: -1
+particle_out_spin_10
+  rotate: false
+  xy: 0, 184
+  size: 146, 212
+  orig: 194, 230
+  offset: 27, 9
+  index: -1
+particle_out_spin_11
+  rotate: false
+  xy: 444, 194
+  size: 148, 202
+  orig: 194, 230
+  offset: 26, 6
+  index: -1
+particle_out_spin_12
+  rotate: false
+  xy: 292, 192
+  size: 150, 204
+  orig: 194, 230
+  offset: 25, 4
+  index: -1
+particle_out_spin_13
+  rotate: true
+  xy: 256, 34
+  size: 152, 206
+  orig: 194, 230
+  offset: 24, 2
+  index: -1
+particle_out_spin_14
+  rotate: false
+  xy: 627, 2
+  size: 152, 190
+  orig: 194, 230
+  offset: 24, 1
+  index: -1
+particle_out_spin_15
+  rotate: true
+  xy: 740, 244
+  size: 152, 142
+  orig: 194, 230
+  offset: 24, 48
+  index: -1
+particle_out_spin_16
+  rotate: true
+  xy: 781, 42
+  size: 152, 142
+  orig: 194, 230
+  offset: 24, 48
+  index: -1
+particle_out_spin_17
+  rotate: false
+  xy: 1110, 260
+  size: 130, 136
+  orig: 194, 230
+  offset: 26, 48
+  index: -1
+particle_out_spin_18
+  rotate: true
+  xy: 740, 196
+  size: 46, 136
+  orig: 194, 230
+  offset: 109, 48
+  index: -1
+particle_out_spin_19
+  rotate: true
+  xy: 464, 154
+  size: 38, 20
+  orig: 194, 230
+  offset: 109, 119
+  index: -1

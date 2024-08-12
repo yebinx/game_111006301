@@ -1,0 +1,364 @@
+{
+    "winNumberDelay": 2,
+    "winAnis": {
+        "bigWin": {
+            "bgAnis": [
+                {
+                    "tag": "big_win_ps_bg",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigWinBg",
+                    "asUrl": "plist/bw_particle",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 11
+                },
+                {
+                    "tag": "big_win_ps_change",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigWinChange",
+                    "asUrl": "plist/bw_particle_01",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 11
+                },
+                {
+                    "tag": "big_win_ps",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigWin1",
+                    "asUrl": "plist/bw_particle",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 9
+                },
+                {
+                    "tag": "bigwin_b",
+                    "type": "sk",
+                    "skUrl": "skeleton/big_win/bigwin",
+                    "loopAniName": "bigwin_loop",
+                    "startAniName": "bigwin_fadein",
+                    "premultipliedAlpha": true,
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 10
+                }
+            ],
+            "textImage": {
+                "atlas": "textures/font/&/general_text",
+                "spriteFrame": "win_bigwin",
+                "scale": 0.7,
+                "x": 0,
+                "y": 0,
+                "zIndex": 12
+            }
+        },
+        "superWin": {
+            "bgAnis": [
+                {
+                    "tag": "super_win_ps_bg",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigWinBg",
+                    "asUrl": "plist/bw_particle",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 11
+                },
+                {
+                    "tag": "super_win_ps_change",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigWinChange",
+                    "asUrl": "plist/bw_particle_01",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 11
+                },
+                {
+                    "tag": "super_win_ps",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigWin2",
+                    "asUrl": "plist/bw_particle",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 11
+                },
+                {
+                    "tag": "superwin_b",
+                    "type": "sk",
+                    "skUrl": "skeleton/big_win/bigwin",
+                    "loopAniName": "megawin_loop",
+                    "startAniName": "megawin_fadein",
+                    "premultipliedAlpha": true,
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 10
+                }
+            ],
+            "textImage": {
+                "atlas": "textures/font/&/general_text",
+                "spriteFrame": "win_megawin",
+                "scale": 0.68,
+                "x": 0,
+                "y": 0,
+                "zIndex": 12
+            }
+        },
+        "megaWin": {
+            "bgAnis": [
+                {
+                    "tag": "mega_win_ps_bg",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigWinBg",
+                    "asUrl": "plist/bw_particle",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 11
+                },
+                {
+                    "tag": "mega_win_ps_change",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigWinChange",
+                    "asUrl": "plist/bw_particle_01",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 11
+                },
+                {
+                    "tag": "mega_win_ps",
+                    "type": "ps_clip",
+                    "psUrl": "plist/bigwincoin",
+                    "asUrl": "plist/fs_end_coin",
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 10
+                },
+                {
+                    "tag": "megawin_b",
+                    "type": "sk",
+                    "skUrl": "skeleton/big_win/bigwin",
+                    "loopAniName": "superwin_loop",
+                    "startAniName": "superwin_fadein",
+                    "premultipliedAlpha": true,
+                    "x": 0,
+                    "y": 0,
+                    "scale": 1,
+                    "zIndex": 9
+                }
+            ],
+            "textImage": {
+                "atlas": "textures/font/&/general_text",
+                "spriteFrame": "win_superwin",
+                "scale": 0.75,
+                "x": 0,
+                "y": 0,
+                "zIndex": 12
+            }
+        }
+    },
+    "bigWinNumAtlas": {
+        "atlas": "textures/common/numAtlas/bigWinNum",
+        "config": [
+            {
+                "id": 0,
+                "spriteFrameName": "win_0"
+            },
+            {
+                "id": 1,
+                "spriteFrameName": "win_1"
+            },
+            {
+                "id": 2,
+                "spriteFrameName": "win_2"
+            },
+            {
+                "id": 3,
+                "spriteFrameName": "win_3"
+            },
+            {
+                "id": 4,
+                "spriteFrameName": "win_4"
+            },
+            {
+                "id": 5,
+                "spriteFrameName": "win_5"
+            },
+            {
+                "id": 6,
+                "spriteFrameName": "win_6"
+            },
+            {
+                "id": 7,
+                "spriteFrameName": "win_7"
+            },
+            {
+                "id": 8,
+                "spriteFrameName": "win_8"
+            },
+            {
+                "id": 9,
+                "spriteFrameName": "win_9"
+            },
+            {
+                "id": ",",
+                "spriteFrameName": "win_comma"
+            },
+            {
+                "id": ".",
+                "spriteFrameName": "win_fullstop"
+            }
+        ],
+        "anchorY": 1.2,
+        "scale": 0.6,
+        "spaceX": -30,
+        "x": 0,
+        "y": -80,
+        "shrink": true,
+        "maxWidth": 600
+    },
+    "superWinNumAtlas": {
+        "atlas": "textures/common/numAtlas/bigWinNum",
+        "config": [
+            {
+                "id": 0,
+                "spriteFrameName": "win_0"
+            },
+            {
+                "id": 1,
+                "spriteFrameName": "win_1"
+            },
+            {
+                "id": 2,
+                "spriteFrameName": "win_2"
+            },
+            {
+                "id": 3,
+                "spriteFrameName": "win_3"
+            },
+            {
+                "id": 4,
+                "spriteFrameName": "win_4"
+            },
+            {
+                "id": 5,
+                "spriteFrameName": "win_5"
+            },
+            {
+                "id": 6,
+                "spriteFrameName": "win_6"
+            },
+            {
+                "id": 7,
+                "spriteFrameName": "win_7"
+            },
+            {
+                "id": 8,
+                "spriteFrameName": "win_8"
+            },
+            {
+                "id": 9,
+                "spriteFrameName": "win_9"
+            },
+            {
+                "id": ",",
+                "spriteFrameName": "win_comma"
+            },
+            {
+                "id": ".",
+                "spriteFrameName": "win_fullstop"
+            }
+        ],
+        "anchorY": 1.2,
+        "scale": 0.6,
+        "spaceX": -30,
+        "x": 0,
+        "y": -80,
+        "shrink": true,
+        "maxWidth": 600
+    },
+    "megaWinNumAtlas": {
+        "atlas": "textures/common/numAtlas/bigWinNum",
+        "config": [
+            {
+                "id": 0,
+                "spriteFrameName": "win_0"
+            },
+            {
+                "id": 1,
+                "spriteFrameName": "win_1"
+            },
+            {
+                "id": 2,
+                "spriteFrameName": "win_2"
+            },
+            {
+                "id": 3,
+                "spriteFrameName": "win_3"
+            },
+            {
+                "id": 4,
+                "spriteFrameName": "win_4"
+            },
+            {
+                "id": 5,
+                "spriteFrameName": "win_5"
+            },
+            {
+                "id": 6,
+                "spriteFrameName": "win_6"
+            },
+            {
+                "id": 7,
+                "spriteFrameName": "win_7"
+            },
+            {
+                "id": 8,
+                "spriteFrameName": "win_8"
+            },
+            {
+                "id": 9,
+                "spriteFrameName": "win_9"
+            },
+            {
+                "id": ",",
+                "spriteFrameName": "win_comma"
+            },
+            {
+                "id": ".",
+                "spriteFrameName": "win_fullstop"
+            }
+        ],
+        "anchorY": 1.2,
+        "scale": 0.6,
+        "spaceX": -30,
+        "x": 0,
+        "y": -80,
+        "shrink": true,
+        "maxWidth": 600
+    },
+    "winBlack": {
+        "opacity": 0
+    },
+    "winSoundType": {
+        "type": 2
+    },
+    "playStyle": 1,
+    "isAutoAni": true,
+    "actionTime": 1,
+    "endStopTime": 5,
+    "winNumTweenAniStepTimes": [
+        10,
+        10,
+        10
+    ],
+    "isFixedTime": false,
+    "fixedTime": 10
+}

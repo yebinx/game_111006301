@@ -1,0 +1,63 @@
+{
+    "winCoinAtlas": {
+        "atlas": "textures/common/numAtlas/number_font",
+        "config": [
+            {
+                "id": 0,
+                "spriteFrameName": "paywin_0"
+            },
+            {
+                "id": 1,
+                "spriteFrameName": "paywin_1"
+            },
+            {
+                "id": 2,
+                "spriteFrameName": "paywin_2"
+            },
+            {
+                "id": 3,
+                "spriteFrameName": "paywin_3"
+            },
+            {
+                "id": 4,
+                "spriteFrameName": "paywin_4"
+            },
+            {
+                "id": 5,
+                "spriteFrameName": "paywin_5"
+            },
+            {
+                "id": 6,
+                "spriteFrameName": "paywin_6"
+            },
+            {
+                "id": 7,
+                "spriteFrameName": "paywin_7"
+            },
+            {
+                "id": 8,
+                "spriteFrameName": "paywin_8"
+            },
+            {
+                "id": 9,
+                "spriteFrameName": "paywin_9"
+            },
+            {
+                "id": ",",
+                "spriteFrameName": "paywin_comma"
+            },
+            {
+                "id": ".",
+                "spriteFrameName": "paywin_fullstop"
+            }
+        ],
+        "scale": 0.6,
+        "spaceX": -15,
+        "x": 0,
+        "y": 30,
+        "allWildx": 400,
+        "shrink": true,
+        "maxWidth": 180,
+        "isCustomAni": false
+    }
+}

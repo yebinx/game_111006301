@@ -1,0 +1,36 @@
+{
+  "ver": "1.2.6",
+  "uuid": "aa8fb938-e273-48f6-8ad7-8a432a778fa6",
+  "importer": "asset",
+  "rawTextureUuid": "1ee4a784-3cee-4c2f-95fd-7bbf3b1a3c2b",
+  "size": {
+    "width": 325,
+    "height": 163
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "payoutwindow_gg.png": {
+      "ver": "1.0.6",
+      "uuid": "047776df-997b-44cc-bcfc-95c476543ff9",
+      "importer": "sprite-frame",
+      "rawTextureUuid": "1ee4a784-3cee-4c2f-95fd-7bbf3b1a3c2b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 325,
+      "height": 163,
+      "rawWidth": 325,
+      "rawHeight": 163,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

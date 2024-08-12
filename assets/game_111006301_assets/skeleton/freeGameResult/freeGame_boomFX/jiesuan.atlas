@@ -1,0 +1,249 @@
+
+jiesuan.png
+size: 1367,1377
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mfmsbeijingtu/tw_a
+  rotate: true
+  xy: 2, 1017
+  size: 243, 527
+  orig: 243, 527
+  offset: 0, 0
+  index: -1
+mfmsbeijingtu/tw_b
+  rotate: true
+  xy: 531, 1007
+  size: 243, 411
+  orig: 243, 411
+  offset: 0, 0
+  index: -1
+mfmsbeijingtu/tw_c
+  rotate: true
+  xy: 2, 772
+  size: 243, 527
+  orig: 243, 527
+  offset: 0, 0
+  index: -1
+mfmsguangyun/bl_vfx_a_add
+  rotate: false
+  xy: 531, 645
+  size: 360, 360
+  orig: 360, 360
+  offset: 0, 0
+  index: -1
+mfmsguangyun/tw_vfx_b_screen
+  rotate: true
+  xy: 944, 884
+  size: 306, 421
+  orig: 306, 421
+  offset: 0, 0
+  index: -1
+mfmsjiesuanjinbi/Coin_00
+  rotate: false
+  xy: 743, 1252
+  size: 123, 123
+  orig: 135, 135
+  offset: 6, 6
+  index: -1
+mfmsjiesuanjinbi/Coin_01
+  rotate: false
+  xy: 868, 1252
+  size: 124, 123
+  orig: 135, 135
+  offset: 6, 6
+  index: -1
+mfmsjiesuanjinbi/Coin_02
+  rotate: false
+  xy: 368, 1262
+  size: 123, 113
+  orig: 135, 135
+  offset: 6, 13
+  index: -1
+mfmsjiesuanjinbi/Coin_03
+  rotate: false
+  xy: 245, 1274
+  size: 121, 101
+  orig: 135, 135
+  offset: 7, 19
+  index: -1
+mfmsjiesuanjinbi/Coin_04
+  rotate: false
+  xy: 2, 1286
+  size: 119, 89
+  orig: 135, 135
+  offset: 8, 23
+  index: -1
+mfmsjiesuanjinbi/Coin_05
+  rotate: false
+  xy: 123, 1280
+  size: 120, 95
+  orig: 135, 135
+  offset: 8, 19
+  index: -1
+mfmsjiesuanjinbi/Coin_06
+  rotate: false
+  xy: 493, 1262
+  size: 123, 113
+  orig: 135, 135
+  offset: 7, 10
+  index: -1
+mfmsjiesuanjinbi/Coin_07
+  rotate: false
+  xy: 618, 1254
+  size: 123, 121
+  orig: 135, 135
+  offset: 6, 7
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_00
+  rotate: true
+  xy: 893, 590
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_01
+  rotate: true
+  xy: 531, 296
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_02
+  rotate: true
+  xy: 2, 233
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_03
+  rotate: false
+  xy: 992, 129
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_04
+  rotate: true
+  xy: 463, 2
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuantu/tw_bg
+  rotate: true
+  xy: 2, 527
+  size: 243, 527
+  orig: 243, 527
+  offset: 0, 0
+  index: -1
+mianfeijiesuantu/tw_bg_02
+  rotate: false
+  xy: 994, 1192
+  size: 243, 183
+  orig: 243, 183
+  offset: 0, 0
+  index: -1
+
+jiesuan2.png
+size: 1178,1391
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_05
+  rotate: false
+  xy: 590, 930
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_06
+  rotate: false
+  xy: 296, 4
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_07
+  rotate: false
+  xy: 590, 469
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_08
+  rotate: false
+  xy: 884, 930
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_09
+  rotate: false
+  xy: 2, 928
+  size: 292, 461
+  orig: 292, 632
+  offset: 0, 63
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_10
+  rotate: false
+  xy: 2, 465
+  size: 292, 461
+  orig: 292, 632
+  offset: 0, 63
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_11
+  rotate: false
+  xy: 296, 928
+  size: 292, 461
+  orig: 292, 632
+  offset: 0, 63
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_12
+  rotate: false
+  xy: 2, 2
+  size: 292, 461
+  orig: 292, 632
+  offset: 0, 63
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_13
+  rotate: false
+  xy: 296, 465
+  size: 292, 461
+  orig: 292, 632
+  offset: 0, 63
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_14
+  rotate: false
+  xy: 590, 8
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_15
+  rotate: false
+  xy: 884, 469
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_16
+  rotate: false
+  xy: 884, 8
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1
+
+jiesuan3.png
+size: 296,463
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeijiesuanbeijingtwo/tw_vfx_c_screen_17
+  rotate: false
+  xy: 2, 2
+  size: 292, 459
+  orig: 292, 632
+  offset: 0, 64
+  index: -1

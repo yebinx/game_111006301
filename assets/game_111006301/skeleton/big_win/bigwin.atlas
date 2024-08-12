@@ -1,0 +1,140 @@
+
+bigwin.png
+size: 112,238
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_bw
+  rotate: false
+  xy: 2, 2
+  size: 108, 234
+  orig: 108, 234
+  offset: 0, 0
+  index: -1
+
+
+bigwin2.jpg
+size: 1218,703
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+flare_01_bw
+  rotate: false
+  xy: 806, 2
+  size: 249, 249
+  orig: 249, 249
+  offset: 0, 0
+  index: -1
+glow_01_bw
+  rotate: false
+  xy: 542, 328
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+glow_02_bw
+  rotate: true
+  xy: 510, 323
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+pattern_a_01_bw
+  rotate: true
+  xy: 416, 310
+  size: 57, 48
+  orig: 57, 48
+  offset: 0, 0
+  index: -1
+pattern_a_02_bw
+  rotate: true
+  xy: 538, 297
+  size: 24, 34
+  orig: 24, 34
+  offset: 0, 0
+  index: -1
+pattern_a_03_bw
+  rotate: true
+  xy: 466, 310
+  size: 57, 42
+  orig: 57, 42
+  offset: 0, 0
+  index: -1
+pattern_a_04_bw
+  rotate: true
+  xy: 510, 291
+  size: 30, 26
+  orig: 30, 26
+  offset: 0, 0
+  index: -1
+pattern_a_05_bw
+  rotate: true
+  xy: 553, 42
+  size: 253, 251
+  orig: 253, 251
+  offset: 0, 0
+  index: -1
+pattern_b_01_bw
+  rotate: false
+  xy: 882, 356
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+pattern_b_02_bw
+  rotate: false
+  xy: 750, 318
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+pattern_b_03_bw
+  rotate: false
+  xy: 750, 450
+  size: 251, 251
+  orig: 251, 251
+  offset: 0, 0
+  index: -1
+pattern_b_04_bw
+  rotate: false
+  xy: 278, 14
+  size: 273, 273
+  orig: 273, 273
+  offset: 0, 0
+  index: -1
+pattern_b_05_bw
+  rotate: false
+  xy: 416, 369
+  size: 332, 332
+  orig: 332, 332
+  offset: 0, 0
+  index: -1
+pattern_b_glow_bw
+  rotate: true
+  xy: 1003, 493
+  size: 208, 213
+  orig: 208, 213
+  offset: 0, 0
+  index: -1
+pattern_c_01_bw
+  rotate: false
+  xy: 2, 13
+  size: 274, 274
+  orig: 274, 274
+  offset: 0, 0
+  index: -1
+pattern_c_02_bw
+  rotate: false
+  xy: 2, 289
+  size: 412, 412
+  orig: 412, 412
+  offset: 0, 0
+  index: -1
+pattern_c_glow_bw
+  rotate: false
+  xy: 1003, 253
+  size: 207, 238
+  orig: 207, 238
+  offset: 0, 0
+  index: -1
+

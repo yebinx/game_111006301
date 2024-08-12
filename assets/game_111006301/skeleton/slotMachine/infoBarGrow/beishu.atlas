@@ -1,0 +1,209 @@
+
+beishu.jpg
+size: 1194,345
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bar_glow_f_free
+  rotate: false
+  xy: 861, 17
+  size: 79, 78
+  orig: 79, 78
+  offset: 0, 0
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_00
+  rotate: true
+  xy: 921, 199
+  size: 27, 25
+  orig: 123, 135
+  offset: 48, 63
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_01
+  rotate: false
+  xy: 1015, 44
+  size: 49, 51
+  orig: 123, 135
+  offset: 35, 49
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_02
+  rotate: true
+  xy: 942, 26
+  size: 69, 71
+  orig: 123, 135
+  offset: 25, 37
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_03
+  rotate: true
+  xy: 772, 10
+  size: 85, 87
+  orig: 123, 135
+  offset: 17, 27
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_04
+  rotate: true
+  xy: 2, 2
+  size: 89, 101
+  orig: 123, 135
+  offset: 19, 20
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_05
+  rotate: true
+  xy: 661, 14
+  size: 97, 109
+  orig: 123, 135
+  offset: 15, 14
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_06
+  rotate: true
+  xy: 119, 6
+  size: 103, 117
+  orig: 123, 135
+  offset: 13, 9
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_07
+  rotate: true
+  xy: 403, 2
+  size: 109, 125
+  orig: 123, 135
+  offset: 9, 5
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_08
+  rotate: false
+  xy: 806, 97
+  size: 113, 129
+  orig: 123, 135
+  offset: 7, 3
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_09
+  rotate: true
+  xy: 274, 113
+  size: 113, 131
+  orig: 123, 135
+  offset: 7, 1
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_10
+  rotate: true
+  xy: 274, 2
+  size: 109, 127
+  orig: 123, 135
+  offset: 7, 6
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_11
+  rotate: false
+  xy: 1081, 79
+  size: 111, 129
+  orig: 123, 135
+  offset: 6, 4
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_12
+  rotate: true
+  xy: 407, 113
+  size: 113, 131
+  orig: 123, 135
+  offset: 5, 4
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_13
+  rotate: true
+  xy: 540, 113
+  size: 113, 131
+  orig: 123, 135
+  offset: 5, 3
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_14
+  rotate: true
+  xy: 276, 228
+  size: 115, 133
+  orig: 123, 135
+  offset: 3, 2
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_15
+  rotate: true
+  xy: 411, 228
+  size: 115, 133
+  orig: 123, 135
+  offset: 4, 2
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_16
+  rotate: true
+  xy: 546, 228
+  size: 115, 133
+  orig: 123, 135
+  offset: 4, 2
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_17
+  rotate: true
+  xy: 2, 226
+  size: 117, 135
+  orig: 123, 135
+  offset: 2, 0
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_18
+  rotate: true
+  xy: 139, 228
+  size: 115, 135
+  orig: 123, 135
+  offset: 3, 0
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_19
+  rotate: true
+  xy: 681, 228
+  size: 115, 133
+  orig: 123, 135
+  offset: 3, 1
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_20
+  rotate: true
+  xy: 816, 228
+  size: 115, 133
+  orig: 123, 135
+  offset: 3, 1
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_21
+  rotate: false
+  xy: 951, 210
+  size: 115, 133
+  orig: 123, 135
+  offset: 3, 1
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_22
+  rotate: false
+  xy: 1068, 210
+  size: 115, 133
+  orig: 123, 135
+  offset: 3, 2
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_23
+  rotate: true
+  xy: 139, 111
+  size: 115, 133
+  orig: 123, 135
+  offset: 3, 2
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_24
+  rotate: false
+  xy: 2, 93
+  size: 115, 131
+  orig: 123, 135
+  offset: 3, 3
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_25
+  rotate: true
+  xy: 673, 113
+  size: 113, 131
+  orig: 123, 135
+  offset: 4, 3
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_26
+  rotate: true
+  xy: 948, 97
+  size: 111, 131
+  orig: 123, 135
+  offset: 6, 3
+  index: -1
+fs_mtp_effect_particle/particle_out_a_free_27
+  rotate: true
+  xy: 530, 12
+  size: 99, 129
+  orig: 123, 135
+  offset: 17, 3
+  index: -1

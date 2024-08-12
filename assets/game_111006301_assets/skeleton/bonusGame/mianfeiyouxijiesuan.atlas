@@ -1,0 +1,27 @@
+
+mianfeiyouxijiesuan.png
+size: 175,125
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_part/flare_01_bw
+  rotate: false
+  xy: 0, 0
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1
+light_part/flare_01_general
+  rotate: true
+  xy: 127, 62
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+light_part/glow_01_win
+  rotate: false
+  xy: 127, 12
+  size: 48, 48
+  orig: 48, 48
+  offset: 0, 0
+  index: -1

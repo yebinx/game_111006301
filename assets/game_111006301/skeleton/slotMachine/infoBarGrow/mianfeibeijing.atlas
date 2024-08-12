@@ -1,0 +1,34 @@
+
+mianfeibeijing.png
+size: 274,332
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_part/background_fire_glow
+  rotate: false
+  xy: 206, 233
+  size: 68, 99
+  orig: 68, 99
+  offset: 0, 0
+  index: -1
+light_part/bonus_glow_a
+  rotate: false
+  xy: 0, 128
+  size: 204, 204
+  orig: 204, 204
+  offset: 0, 0
+  index: -1
+light_part/bonus_glow_b
+  rotate: false
+  xy: 0, 0
+  size: 126, 126
+  orig: 126, 126
+  offset: 0, 0
+  index: -1
+light_part/flare_01_bw
+  rotate: false
+  xy: 128, 1
+  size: 125, 125
+  orig: 125, 125
+  offset: 0, 0
+  index: -1

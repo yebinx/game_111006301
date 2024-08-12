@@ -1,0 +1,12 @@
+{
+  "colors": 256,
+  "enabled": true,
+  "excludeFiles": [],
+  "excludeFolders": [
+    "game_111006301/skeleton/",
+    "game_111006301_assets/skeleton/"
+  ],
+  "maxQuality": 90,
+  "minQuality": 1,
+  "speed": 3
+}

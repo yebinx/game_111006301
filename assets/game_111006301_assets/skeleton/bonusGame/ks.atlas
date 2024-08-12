@@ -1,0 +1,88 @@
+
+ks.png
+size: 1364,1205
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+aixinxingguang/multiplier_vfx_d_screen
+  rotate: true
+  xy: 729, 969
+  size: 234, 252
+  orig: 234, 252
+  offset: 0, 0
+  index: -1
+mfmskaishijiemian/bl_a
+  rotate: true
+  xy: 2, 490
+  size: 486, 662
+  orig: 486, 662
+  offset: 0, 0
+  index: -1
+mfmskaishijiemian/bl_b
+  rotate: true
+  xy: 2, 2
+  size: 486, 991
+  orig: 486, 991
+  offset: 0, 0
+  index: -1
+mianfeimoshijiazai/bl_board
+  rotate: true
+  xy: 983, 696
+  size: 507, 379
+  orig: 507, 379
+  offset: 0, 0
+  index: -1
+mianfeimoshijiazai/button
+  rotate: false
+  xy: 2, 1091
+  size: 285, 112
+  orig: 293, 122
+  offset: 4, 5
+  index: -1
+mianfeimoshijiazai/button_vfx_screen
+  rotate: false
+  xy: 289, 978
+  size: 438, 225
+  orig: 438, 225
+  offset: 0, 0
+  index: -1
+
+ks2.png
+size: 978,1057
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mfmskaishijiemian/bl_bg
+  rotate: false
+  xy: 2, 2
+  size: 486, 1053
+  orig: 486, 1053
+  offset: 0, 0
+  index: -1
+mfmskaishijiemian/bl_c
+  rotate: false
+  xy: 490, 135
+  size: 486, 920
+  orig: 486, 920
+  offset: 0, 0
+  index: -1
+
+ks3.png
+size: 978,814
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mianfeimoshijiazai/bl_vfx_b_screen_01
+  rotate: false
+  xy: 2, 2
+  size: 486, 810
+  orig: 486, 810
+  offset: 0, 0
+  index: -1
+mianfeimoshijiazai/bl_vfx_b_screen_02
+  rotate: false
+  xy: 490, 2
+  size: 486, 810
+  orig: 486, 810
+  offset: 0, 0
+  index: -1

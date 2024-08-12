@@ -1,0 +1,48 @@
+{
+    "canvas": {
+        "width": 1638,
+        "height": 756
+    },
+    "isTest": true,
+    "themeColor": "#DD5C2A",
+    "scoreColor": "#CFCECE",
+    "language": "zh",
+    "settingStyle": 2,
+    "blurryUrl": "textures/bg/minBg",
+    "loading": {
+        "loadingBg": "textures/bg/loading/&",
+        "startBtn": "textures/ui/loading/start_btn",
+        "light": "textures/ui/loading/light",
+        "loadingBarBg": "textures/ui/loading/loading_down",
+        "loadingProgress": "textures/ui/loading/loading_up",
+        "infoMask": {
+            "icon": "textures/ui/loading/infoMask",
+            "y": -548.5
+        }
+    },
+    "languages": [
+        "zh",
+        "en",
+        "th",
+        "id",
+        "ko",
+        "ru",
+        "ja",
+        "vi",
+        "de",
+        "sv",
+        "es",
+        "it",
+        "da",
+        "nl",
+        "fi",
+        "fr",
+        "no",
+        "pl",
+        "pt",
+        "ro",
+        "tr",
+        "my"
+    ],
+    "isUseAssetBundle": true
+}

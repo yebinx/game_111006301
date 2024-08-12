@@ -1,0 +1,13 @@
+
+freeGameBtn.jpg
+size: 682,316
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btnFX
+  rotate: false
+  xy: 2, 2
+  size: 678, 312
+  orig: 678, 312
+  offset: 0, 0
+  index: -1

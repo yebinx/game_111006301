@@ -1,0 +1,139 @@
+
+zhongjiang.png
+size: 223,807
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_part/flare_01_total
+  rotate: false
+  xy: 0, 591
+  size: 216, 216
+  orig: 216, 216
+  offset: 0, 0
+  index: -1
+light_part/frame_01_win
+  rotate: false
+  xy: 0, 142
+  size: 111, 111
+  orig: 111, 111
+  offset: 0, 0
+  index: -1
+light_part/glow_01_win
+  rotate: false
+  xy: 124, 494
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+tb_win_particle_animation/particle_out_00
+  rotate: true
+  xy: 184, 88
+  size: 18, 20
+  orig: 152, 152
+  offset: 68, 67
+  index: -1
+tb_win_particle_animation/particle_out_01
+  rotate: false
+  xy: 184, 108
+  size: 34, 32
+  orig: 152, 152
+  offset: 61, 61
+  index: -1
+tb_win_particle_animation/particle_out_02
+  rotate: true
+  xy: 174, 16
+  size: 50, 44
+  orig: 152, 152
+  offset: 54, 54
+  index: -1
+tb_win_particle_animation/particle_out_03
+  rotate: false
+  xy: 0, 6
+  size: 64, 54
+  orig: 152, 152
+  offset: 48, 49
+  index: -1
+tb_win_particle_animation/particle_out_04
+  rotate: false
+  xy: 96, 0
+  size: 76, 66
+  orig: 152, 152
+  offset: 43, 44
+  index: -1
+tb_win_particle_animation/particle_out_05
+  rotate: false
+  xy: 96, 68
+  size: 86, 72
+  orig: 152, 152
+  offset: 39, 42
+  index: -1
+tb_win_particle_animation/particle_out_06
+  rotate: false
+  xy: 0, 62
+  size: 94, 78
+  orig: 152, 152
+  offset: 35, 38
+  index: -1
+tb_win_particle_animation/particle_out_07
+  rotate: false
+  xy: 120, 408
+  size: 100, 84
+  orig: 152, 152
+  offset: 33, 35
+  index: -1
+tb_win_particle_animation/particle_out_08
+  rotate: false
+  xy: 116, 232
+  size: 106, 88
+  orig: 152, 152
+  offset: 31, 33
+  index: -1
+tb_win_particle_animation/particle_out_09
+  rotate: false
+  xy: 118, 322
+  size: 104, 84
+  orig: 152, 152
+  offset: 36, 31
+  index: -1
+tb_win_particle_animation/particle_out_10
+  rotate: false
+  xy: 113, 142
+  size: 110, 88
+  orig: 152, 152
+  offset: 33, 29
+  index: -1
+tb_win_particle_animation/particle_out_11
+  rotate: false
+  xy: 0, 255
+  size: 114, 90
+  orig: 152, 152
+  offset: 31, 28
+  index: -1
+tb_win_particle_animation/particle_out_12
+  rotate: false
+  xy: 0, 347
+  size: 116, 92
+  orig: 152, 152
+  offset: 30, 26
+  index: -1
+tb_win_particle_animation/particle_out_13
+  rotate: false
+  xy: 0, 441
+  size: 118, 92
+  orig: 152, 152
+  offset: 30, 26
+  index: -1
+tb_win_particle_animation/particle_out_14
+  rotate: false
+  xy: 0, 535
+  size: 120, 26
+  orig: 152, 152
+  offset: 29, 25
+  index: -1
+tb_win_particle_animation/particle_out_15
+  rotate: false
+  xy: 0, 563
+  size: 122, 26
+  orig: 152, 152
+  offset: 28, 24
+  index: -1

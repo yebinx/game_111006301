@@ -1,0 +1,11 @@
+{
+    "rule": {
+        "title": "textures/ui/rule/&_01",
+        "items": [
+            "textures/ui/rule/&_02",
+            "textures/ui/rule/&_03",
+            "textures/ui/rule/&_04",
+            "textures/ui/rule/0"
+        ]
+    }
+}
